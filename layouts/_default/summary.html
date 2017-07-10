@@ -8,7 +8,7 @@
       <div class="card-block">
         <p class="card-title">{{ .Title }}</p>
 
-        <p class="card-text">{{ .Description }}</p>
+        <p class="card-text description-accueil">{{ .Description }}</p>
       </div>
       <div class="card-footer text-muted">
         Publié le {{ .Date.Format "2" }} {{ index $.Site.Data.mois_data.mois .Date.Month }} {{ .Date.Format "2006" }}

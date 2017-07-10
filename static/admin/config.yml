@@ -18,5 +18,5 @@ collections:
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Cover Image", name: "image", widget: "image", required: false, tagname: ""}
       - {label: "Categories", name: "categories", widget: "list"}
-      - {label: "Texte", name: "body", widget: "markdown"}
       - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Texte", name: "body", widget: "markdown"}
