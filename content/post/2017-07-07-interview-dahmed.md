@@ -3,7 +3,8 @@ title: Interview d'Ahmed
 description: 'Cuisiner avec passion : voilà le credo de notre Cuistot Ahmed. Rencontre !'
 image: /images/IMG_7960.JPG
 categories:
- - "categorie 2"
+  - cuistots
+date: 2017-07-10T08:59:24.910Z
 ---
 **Cuisiner est pour nous une passion. Et toi, quelle est ton histoire avec la cuisine ?**
 
@@ -40,3 +41,4 @@ Au Cameroun, il ne faut pas s’arrêter aux grandes villes et au béton. Je rec
 Une recette toute simple alors, de l’inspiration du moment !
 
 J’aime préparer des salades froides de riz. Je commence par mixer des fraises et des poivrons. J’utilise cette mixture pour badigeonner des dés de poulet. J’ajoute un filet d’huile d’olive et je cuis au four. Pendant ce temps, je cuis le riz que j’accompagne d’un petit condiment fraises-poivrons coupés en dés et j’assaisonne avec du basilic haché finement. Une fois le poulet cuit, je l’ajoute au riz. C’est prêt !
+
