@@ -13,10 +13,10 @@
 
       <div class="blog-body">
         <div class="blog-title">
-          <h1>{{ .Title }}</h1>
+          <h1>{{ .Title | markdownify }}</h1>
         </div>
         <div class="blog-summary">
-          <p>{{ .Description }}</p>
+          <p>{{ .Description | markdownify }}</p>
           <p>{{ .Content | markdownify }}</p>
         </div>
       </div>
