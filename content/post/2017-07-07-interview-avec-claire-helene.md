@@ -5,7 +5,8 @@ description: >-
   Claire-Hélène nous fait découvrir son univers culinaire et ses sources
   d'inspiration aux fourneaux !
 image: /images/clairé.jpg
-categories: 'List [ "categorie 2" ]'
+categories: 
+ - "categorie 2"
 ---
 **- Quel est ton lien à la cuisine ? Ton histoire aux fourneaux ?**
 
