@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/post/2017-07-10-test/</loc>
+    <lastmod>2017-07-10T09:40:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-07-07-interview-avec-claire-helene/</loc>
+    <lastmod>2017-07-10T09:29:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-07-07-interview-dahmed/</loc>
+    <lastmod>2017-07-10T08:59:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-07-07-interview-de-takako/</loc>
+    <lastmod>2017-07-10T08:09:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/another-post/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/ateliers/</loc>
+    <lastmod>2017-07-10T09:40:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2017-07-10T09:40:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/configuration/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-07-10T09:40:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/cuistots/</loc>
+    <lastmod>2017-07-10T09:29:46+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/example/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2017-07-10T09:40:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

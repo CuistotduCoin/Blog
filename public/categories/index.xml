@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Cuistot du coin</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Cuistot du coin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 10 Jul 2017 09:40:02 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ateliers</title>
+      <link>/categories/ateliers/</link>
+      <pubDate>Mon, 10 Jul 2017 09:40:02 +0000</pubDate>
+      
+      <guid>/categories/ateliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>/categories/configuration/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuistots</title>
+      <link>/categories/cuistots/</link>
+      <pubDate>Mon, 10 Jul 2017 09:29:46 +0000</pubDate>
+      
+      <guid>/categories/cuistots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>/categories/example/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
