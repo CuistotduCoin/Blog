@@ -15,8 +15,8 @@ hr {
 }
 
 .description-accueil {
-	overflow: hidden;
-	height: 100px;
+	overflow: auto;
+	height: 50px;
 }
 
 .text-pagination {
@@ -477,6 +477,7 @@ blockquote:hover {
 
 footer {
 	margin: 0;
+	margin-top: 2%;
 	padding: 0;
 	color: white;
 	background-color: #2b2b2b;

@@ -5,7 +5,7 @@
 <div class="container main">
     <div class="row">
         {{ range first 6 .Data.Pages }}
-          {{ .Render "summary" }}
+          {{ .Render "summary" | markdownify }}
         {{ end }}
     </div>
 

@@ -1,0 +1,33 @@
+{{ partial "header.html" . }}
+<body>
+{{ partial "navbar.html" . }}
+<div class="container main">
+  <div class="row">
+    <div class="col-md-9">
+      <div class="well well-sm">
+        <h3>{{ .Title }}<br> <small>{{ .Description }}</small></h3>
+        <hr>
+        {{ .Content | markdownify }}
+      </div>
+    </div>
+
+    <!-- Sidebar -->
+    <div class="col-md-3">
+      <div class="well well-sm"> <!-- Post-specific stats -->
+        <h4>{{ .Date.Format "January 2, 2006" }}<br>
+        <small>{{ .WordCount }} words</small></h4>
+        <hr>
+        <strong>Categories</strong>
+        <ul class="list-unstyled">
+          {{ range .Params.categories }}
+            <li><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+          {{ end }}
+        </ul>
+        <hr>
+      </div>
+      {{ partial "facebook.html" . }}
+    </div>
+  </div>
+</div>
+{{ partial "footer.copyright.html" . }}
+{{ partial "footer.html" . }}
