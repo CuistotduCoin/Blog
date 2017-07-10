@@ -1,18 +1,7 @@
-<style>
-.{{ .Title }} {
-	background: url("../images/{{ index .Params "image" }}");
-	background-size: cover;
-	border-radius: 5px 5px 0 0;
-	height: 15rem;
-	box-shadow: inset rgba(0, 0, 0, 0.2) 0 64px 64px 16px;
-}
-</style>
-
 <div class="blog-container">
 
   <div class="blog-header">
-    <div class="{{ .Title }}">
-    </div>
+    <img src="{{ index .Params "image" }}" alt="Avatar" class="image">
   </div>
 
   <div class="blog-body">
