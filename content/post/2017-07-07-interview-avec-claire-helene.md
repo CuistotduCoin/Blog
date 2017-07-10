@@ -5,8 +5,9 @@ description: >-
   Claire-Hélène nous fait découvrir son univers culinaire et ses sources
   d'inspiration aux fourneaux !
 image: /images/clairé.jpg
-categories: 
- - "categorie 2"
+categories:
+  - cuistots
+date: 2017-07-10T09:29:46.383Z
 ---
 **- Quel est ton lien à la cuisine ? Ton histoire aux fourneaux ?**
 
@@ -43,6 +44,7 @@ Ou alors un coin peu connu et pourtant facilement accessible et que j'adore, gri
 C'est la saison des fruits rouges, mes fruits préférés :
 
 Une verrine ou une timbale de framboises entières et de feuilles de basilic émincées, recouvertes d'un mélange mascarpone/fromage blanc/sucre, et dorée au four. On peut rajouter des petits morceaux de Spéculoos pour la touche nord pas de calais. Tout simple, mais le mélange framboises/basilic fait toujours son effet !
+
 
 
 
