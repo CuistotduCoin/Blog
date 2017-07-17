@@ -4,7 +4,8 @@ description: >-
   Une recette rafraichissante proposée par ll'un de nos Gourmets dans le cadre
   de notre grand concours de Juin 2017.
 image: /images/smoothie_fraises_ananas_tagada.jpg
-categories: 'List [ "categorie 3" ]'
+categories:
+ - "categorie 3"
 ---
 **Ingrédients**
 
