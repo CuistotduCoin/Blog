@@ -7,7 +7,6 @@ image: /images/shing1.jpg
 categories:
   - categorie 2
 date: 2017-07-17T07:58:33.373Z
-draft: true
 ---
 **Cuisiner est pour nous une passion. Et toi, quelle est ton histoire avec la cuisine ?**
 
