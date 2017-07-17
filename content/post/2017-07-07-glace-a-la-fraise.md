@@ -2,7 +2,8 @@
 title: Glace à la fraise
 description: Un régal en été !
 image: /images/ian-dooley-281897.jpg
-categories: 'List [ "categorie 3" ]'
+categories:
+ - "categorie 3"
 ---
 **Ingrédients**
 
