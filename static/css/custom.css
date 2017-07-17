@@ -264,11 +264,11 @@ blockquote:hover {
 	text-decoration: none;
 }
 
-.summary a {
+.summary {
 	color: inherit;
 }
 
-.summary a:hover {
+.summary:hover {
 	color: inherit;
 	text-decoration: none;
 }

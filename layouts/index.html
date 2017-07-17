@@ -4,9 +4,11 @@
 
 <div class="container main">
     <div class="row">
+      <div class="card-group">
         {{ range first 6 .Data.Pages }}
           {{ .Render "summary" | markdownify }}
         {{ end }}
+      </div>
     </div>
 
 </div>
