@@ -4,7 +4,8 @@ description: >-
   Une nouvelle recette proposée par l'un de nos Gourmets lors du concours de
   Juin 2017
 image: /images/chloe-hoffmann-109003.jpg
-categories: 'List [ "categorie 3" ]'
+categories: 
+ - "categorie 3"
 ---
 **Ingrédients**
 
