@@ -2,7 +2,8 @@
 title: La reine des tartines
 description: Parce que les recettes les plus simples sont souvent les meilleures !
 image: /images/jonathan-pielmayer-111192.jpg
-categories: 'List [ "categorie 3" ]'
+categories:
+ - "categorie 3"
 ---
 **Ingrédients**
 
