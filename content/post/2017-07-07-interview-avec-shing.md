@@ -4,7 +4,8 @@ description: >-
   Originaire de Singapour, lieu surnommé Food Paradise, Shing témoigne et nous
   partage son lien à la cuisine.
 image: /images/shing1.jpg
-categories: 'List [ "categorie 2" ]'
+categories: 
+ - "categorie 2"
 ---
 **Cuisiner est pour nous une passion. Et toi, quelle est ton histoire avec la cuisine ?**
 
