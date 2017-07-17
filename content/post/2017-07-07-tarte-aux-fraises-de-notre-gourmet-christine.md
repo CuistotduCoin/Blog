@@ -4,7 +4,8 @@ description: >-
   Découvrez vite la recette gagnante de notre grand concours "Ramène ta fraise"
   de Juin 2017 !
 image: /images/tarte.jpg
-categories: 'List [ "categorie 1" ]'
+categories:
+ - "categorie 1"
 ---
 **Ingrédients pour 6/8 personnes**
 
