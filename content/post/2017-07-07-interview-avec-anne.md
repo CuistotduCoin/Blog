@@ -5,7 +5,8 @@ description: >-
   Rencontre avec Anne et découverte de ses ateliers pour des cuisiniers en herbe
   !
 image: /images/IMG_1823.JPG
-categories: 'List [ "categorie 2" ]'
+categories: 
+ - "categorie 2"
 ---
 **Cuisiner est pour nous une passion. Et toi, quelle est ton histoire avec la cuisine ?**
 
