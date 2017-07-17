@@ -6,6 +6,7 @@ description: >-
 image: /images/shing1.jpg
 categories: 
  - "categorie 2"
+draft: true
 ---
 **Cuisiner est pour nous une passion. Et toi, quelle est ton histoire avec la cuisine ?**
 
