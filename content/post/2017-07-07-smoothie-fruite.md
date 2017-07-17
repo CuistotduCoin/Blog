@@ -2,7 +2,8 @@
 title: Smoothie fruité
 description: Une boisson riche en fruits !
 image: /images/timothy-lamm-196281.jpg
-categories: 'List [ "categorie 3" ]'
+categories:
+ - "categorie 3"
 ---
 **Ingrédients**
 
