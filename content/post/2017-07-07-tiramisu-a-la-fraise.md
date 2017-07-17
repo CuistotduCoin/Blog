@@ -2,7 +2,8 @@
 title: Tiramisu à la fraise
 description: Une recette bien gourmande !
 image: /images/marc-fulgar-59958.jpg
-categories: 'List [ "categorie 1" ]'
+categories:
+ - "categorie 1"
 ---
 **Ingrédients**
 
