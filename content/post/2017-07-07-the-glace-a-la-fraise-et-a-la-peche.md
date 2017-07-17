@@ -2,7 +2,8 @@
 title: Thé glacé à la fraise et à la pêche
 description: Une boisson originale pour surprendre vos invités lors d'une pause thé !
 image: /images/loli-clement-219772.jpg
-categories: 'List [ "categorie 3" ]'
+categories:
+ - "categorie 3"
 ---
 **Ingrédients**
 
