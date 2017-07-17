@@ -4,7 +4,8 @@ description: >-
   Pour cet article, nous voyageons en Inde, aux côtés de Shyam, notre cuistot
   passionné de cuisine et de son pays d'origine.
 image: /images/IMG_1938.JPG
-categories: 'List [ "categorie 2" ]'
+categories:
+ - "categorie 2"
 ---
 **D’où est né ta passion de la cuisine ?**
 
