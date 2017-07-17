@@ -2,7 +2,8 @@
 title: Club sandwich aux fraises de Plougastel
 description: Une recette pour les grands Gourmands !
 image: /images/artur-rutkowski-97622.jpg
-categories: 'List [ "categorie 3" ]'
+categories: 
+ - "categorie 3"
 ---
 **Ingrédients**
 
