@@ -1,9 +1,10 @@
 ---
 title: Thé glacé à la fraise et à la pêche
 description: Une boisson originale pour surprendre vos invités lors d'une pause thé !
-image: /images/loli-clement-219772.jpg
+image: /images/the.jpg
 categories:
- - "categorie 3"
+  - recettes
+date: 2017-07-19T00:00:00+02:00
 ---
 **Ingrédients**
 
@@ -30,6 +31,7 @@ Faire bouillir un litre d’eau et laisser infuser le sachet de thé.
 Laisser refroidir et mélanger les fruits au thé.
 
 Servir bien frais avec une base de glace pilée.
+
 
 
 
