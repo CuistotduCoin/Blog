@@ -1,9 +1,10 @@
 ---
 title: Smoothie fruité
 description: Une boisson riche en fruits !
-image: /images/timothy-lamm-196281.jpg
+image: /images/smoothie.jpg
 categories:
- - "categorie 3"
+  - recettes
+date: 2017-07-19T00:00:00+02:00
 ---
 **Ingrédients**
 
@@ -20,6 +21,7 @@ categories:
 **Préparation**
 
 Passer tous les ingrédients au blender et ajouter de l’eau si nécessaire pour obtenir la consistance souhaitée.
+
 
 
 
