@@ -4,9 +4,10 @@ description: >-
   La cuisine comme moyen d'expression ! Et il n'y a pas d'âge pour commencer !
   Rencontre avec Anne et découverte de ses ateliers pour des cuisiniers en herbe
   !
-image: /images/IMG_1823.JPG
-categories: 
- - "categorie 2"
+image: /images/anne.jpg
+categories:
+  - cuistots
+date: 2017-07-19T00:00:00+02:00
 ---
 **Cuisiner est pour nous une passion. Et toi, quelle est ton histoire avec la cuisine ?**
 
@@ -51,6 +52,7 @@ Ce serait un plat avec des épices et du lait de coco. Pour en citer un, je dira
 **Si l’on partait dans le Finistère Sud, d’où tu es originaire, que nous conseillerais-tu de visiter ?**
 
 Sans hésitation, ce serait le sentier côtier Pont-Aven – Port Manac’h.
+
 
 
 
