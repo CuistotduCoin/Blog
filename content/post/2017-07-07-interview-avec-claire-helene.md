@@ -4,7 +4,7 @@ description: >-
   Une cuisine naturelle, colorée, saine et originale ! Notre cuistot
   Claire-Hélène nous fait découvrir son univers culinaire et ses sources
   d'inspiration aux fourneaux !
-image: /images/clairé.jpg
+image: /images/ch.jpg
 categories:
   - cuistots
 date: 2017-07-10T09:29:46.383Z
@@ -44,6 +44,7 @@ Ou alors un coin peu connu et pourtant facilement accessible et que j'adore, gri
 C'est la saison des fruits rouges, mes fruits préférés :
 
 Une verrine ou une timbale de framboises entières et de feuilles de basilic émincées, recouvertes d'un mélange mascarpone/fromage blanc/sucre, et dorée au four. On peut rajouter des petits morceaux de Spéculoos pour la touche nord pas de calais. Tout simple, mais le mélange framboises/basilic fait toujours son effet !
+
 
 
 
