@@ -3,9 +3,10 @@ title: Interview avec Shyam
 description: >-
   Pour cet article, nous voyageons en Inde, aux côtés de Shyam, notre cuistot
   passionné de cuisine et de son pays d'origine.
-image: /images/IMG_1938.JPG
+image: /images/shyam.jpg
 categories:
- - "categorie 2"
+  - cuistot
+date: 2017-07-19T00:00:00+02:00
 ---
 **D’où est né ta passion de la cuisine ?**
 
@@ -28,6 +29,7 @@ Sans hésitation, le curry agneau ! Et si je devais citer un plat français, je 
 **S’il y avait une chose à ne pas manquer en Inde lors d’un voyage, ce serait quoi selon toi ?**
 
 Si vous voyagez en Inde, je vous conseillerais la région de kerala pour sa nature préservée. Sinon, je citerais les visites de palais au Rajasthan ou à Jaïpur.
+
 
 
 
