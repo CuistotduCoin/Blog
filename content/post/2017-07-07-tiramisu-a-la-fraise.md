@@ -1,7 +1,7 @@
 ---
 title: Tiramisu à la fraise
 description: Une recette bien gourmande !
-image: /images/marc-fulgar-59958.jpg
+image: /images/tiramisu.jpg
 categories:
   - a choisir
 date: 2017-07-17T08:11:42.672Z
@@ -49,6 +49,7 @@ Finaliser la décoration avec une fraise coupée en fines lamelles retenues par 
 Déposer une feuille de menthe sur le dessus.
 
 Réserver quelques heures au frigo avant de déguster.
+
 
 
 
