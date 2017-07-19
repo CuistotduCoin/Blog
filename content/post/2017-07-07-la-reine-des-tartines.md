@@ -1,9 +1,10 @@
 ---
 title: La reine des tartines
 description: Parce que les recettes les plus simples sont souvent les meilleures !
-image: /images/jonathan-pielmayer-111192.jpg
+image: /images/tartine.jpg
 categories:
- - "categorie 3"
+  - recettes
+date: 2017-07-19T00:00:00+02:00
 ---
 **Ingrédients**
 
@@ -24,6 +25,7 @@ Y déposer des tranches de fraises.
 
 
 Bon appétit !
+
 
 
 
