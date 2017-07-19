@@ -86,7 +86,8 @@ strong {
 }
 
 .block-newsletter {
-	background-color: #2aba66;
+	background-color: #f05f40;
+	color: white;
 	border-radius: 4px;
 	margin: 2%;
 	padding: 2%;
@@ -484,8 +485,8 @@ footer {
 	margin: 0;
 	margin-top: 2%;
 	padding: 0;
-	color: white;
-	background-color: #2b2b2b;
+	color: black;
+	background-color: white;
 }
 
 .footer-copyright {
