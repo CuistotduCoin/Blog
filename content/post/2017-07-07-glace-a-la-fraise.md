@@ -1,9 +1,10 @@
 ---
 title: Glace à la fraise
 description: Un régal en été !
-image: /images/ian-dooley-281897.jpg
+image: /images/glace.jpg
 categories:
- - "categorie 3"
+  - recettes
+date: 2017-07-19T00:00:00+02:00
 ---
 **Ingrédients**
 
@@ -24,4 +25,5 @@ Battre la crème fleurette jusqu'à ce qu'elle épaississe. Réserver au frais.
 Mixer les fraises, le sucre au blender.
 
 Mélanger délicatement le tout et mettre en sorbetière
+
 
