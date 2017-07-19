@@ -5,7 +5,8 @@ description: >-
   de Juin 2017 !
 image: /images/tarte.jpg
 categories:
- - "categorie 1"
+  - recettes
+date: 2017-07-19T00:00:00+02:00
 ---
 **Ingrédients pour 6/8 personnes**
 
@@ -50,6 +51,7 @@ Travailler à la spatule le mascarpone, le sucre, la vanille et le zeste d’ora
 Démouler la pâte, étaler le mascarpone, puis disposer les fraises harmonieusement.
 
 Faire chauffer la confiture de fraise avec le jus d’orange, tamiser et arroser la tarte.
+
 
 
 
