@@ -4,8 +4,9 @@ description: >-
   Une nouvelle recette proposée par l'un de nos Gourmets lors du concours de
   Juin 2017
 image: /images/chloe-hoffmann-109003.jpg
-categories: 
- - "categorie 3"
+categories:
+  - recettes
+date: 2017-07-19T00:00:00+02:00
 ---
 **Ingrédients**
 
@@ -36,6 +37,7 @@ Couper les fraises en morceaux.
 Briser les biscuits en petits bouts.
 
 Dans une verrine, disposer un fond de biscuits, puis des fraises fraîches et le mélange yaourt-ricotta.
+
 
 
 
