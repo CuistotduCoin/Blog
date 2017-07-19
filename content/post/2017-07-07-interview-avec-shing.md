@@ -3,9 +3,9 @@ title: Interview avec Shing
 description: >-
   Originaire de Singapour, lieu surnommé Food Paradise, Shing témoigne et nous
   partage son lien à la cuisine.
-image: /images/shing1.jpg
+image: /images/shing.jpg
 categories:
-  - categorie 2
+  - cuistots
 date: 2017-07-17T07:58:33.373Z
 ---
 **Cuisiner est pour nous une passion. Et toi, quelle est ton histoire avec la cuisine ?**
@@ -47,6 +47,7 @@ On déroule une pâte feuilletée. On place sur une moitié les épinards, on re
 On enfourne 20 minutes et c’est prêt !
 
 Bon appétit !
+
 
 
 
