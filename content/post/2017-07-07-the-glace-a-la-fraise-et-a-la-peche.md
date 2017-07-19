@@ -4,7 +4,7 @@ description: Une boisson originale pour surprendre vos invités lors d'une pause
 image: /images/the.jpg
 categories:
   - recettes
-date: 2017-07-19T00:00:00+02:00
+date: 2017-07-18T22:00:00.000Z
 ---
 **Ingrédients**
 
@@ -31,6 +31,7 @@ Faire bouillir un litre d’eau et laisser infuser le sachet de thé.
 Laisser refroidir et mélanger les fruits au thé.
 
 Servir bien frais avec une base de glace pilée.
+
 
 
 
