@@ -1,9 +1,10 @@
 ---
 title: Club sandwich aux fraises de Plougastel
 description: Une recette pour les grands Gourmands !
-image: /images/artur-rutkowski-97622.jpg
-categories: 
- - "categorie 3"
+image: /images/club.jpg
+categories:
+  - recettes
+date: 2017-07-19T00:00:00+02:00
 ---
 **Ingrédients**
 
@@ -58,6 +59,7 @@ Découper le biscuit en carrés de la taille souhaitée.
 Couper des fraises en rondelles et les disposer sur la ganache.
 
 Recouvrir d’une moitié de biscuit recouvert de ganache, à la manière d’un sandwich .
+
 
 
 
