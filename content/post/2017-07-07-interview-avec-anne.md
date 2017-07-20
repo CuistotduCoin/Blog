@@ -7,7 +7,7 @@ description: >-
 image: /images/anne.jpg
 categories:
   - cuistots
-date: 2017-07-19T00:00:00+02:00
+date: 2017-07-18T22:00:00.000Z
 ---
 **Cuisiner est pour nous une passion. Et toi, quelle est ton histoire avec la cuisine ?**
 
@@ -27,27 +27,19 @@ C’est donc tout naturellement que mon projet a pris forme : proposer des cours
 
 J’ai à cœur d’allier la cuisine et la communication bienveillante en proposant des outils pour apprendre à gérer les conflits dans les fratries, les problèmes scolaires…
 
-
-
 **Quelles sont tes influences culinaires ?**
 
 Pour cuisiner, je puise mon inspiration dans tout un tas de revues, livres et sites culinaires. Je pars à la découverte d’un produit en cherchant de nouvelles recettes et je crée au final ma propre recette ! J’aime inventer, innover, tester. On ne mange jamais 2 fois la même chose avec moi !
 
 Quand je reçois des invités, je ne leur présente jamais le plat qu’ils vont déguster. Je les laisse découvrir en goûtant. J’aime les surprendre et leur faire manger des choses qu’ils n’auraient pas soupçonnées !
 
-
-
 **Quels sont les ingrédients les plus étranges que l’on retrouve dans ta cuisine ?**
 
 Je dirais les algues, les légumes oubliés, les graines en tout genre et le tofu soyeux !
 
-
-
 **Quelle est ton plat préféré ?**
 
 Ce serait un plat avec des épices et du lait de coco. Pour en citer un, je dirais un Cari !
-
-
 
 **Si l’on partait dans le Finistère Sud, d’où tu es originaire, que nous conseillerais-tu de visiter ?**
 
@@ -55,4 +47,77 @@ Sans hésitation, ce serait le sentier côtier Pont-Aven – Port Manac’h.
 
 
 
+**Si tu avais une recette à nous partager, ce serait ?**
+
+Voici ma recette de curry pour 4 personnes
+
+Ingrédients :
+
+100 g d’épinards équeutés
+
+250 g de pois chiches déjà cuits
+
+1 oignon rouge moyen
+
+1 patate douce
+
+1 gousse d’ail
+
+40 cl de lait de coco
+
+1 cuil. à soupe de concentré de tomates
+
+2 cuil. à soupe de jus de citron
+
+1 cuil. à café de pâte de crevettes, à défaut du nuoc mam
+
+1 cuil. à café de sucre roux
+
+2 cuil. à soupe d’huile végétale
+
+Les épices :
+
+1 cuil. à café rase de garam massala
+
+½ cuil. à café de coriandre moulue
+
+½ cuil. à café de cumin moulu
+
+¼ cuil. à café de curcuma
+
+3 pincées de piment de Cayenne
+
+Graines de sésame pour servir
+
+Rincez les pois chiches et réservez.
+
+Préparation :
+
+Lavez les feuilles d’épinard, après les avoir équeutées, puis coupez-les en lanières.
+
+Pelez puis émincez l’oignon et la gousse d’ail.
+
+Faites chauffer l’huile dans une cocotte ou dans une sauteuse.
+
+Ajoutez l’oignon puis faites-le revenir sur feu moyen pendant 5 minutes.
+
+Ajoutez les épices, l’ail et mélangez bien.
+
+Ajoutez les pois chiches, la patate douce coupée en cubes, le lait de coco, la pâte de crevettes (ou le
+
+nuoc mam), le concentré de tomates, le sucre, le jus de citron et mélangez bien.
+
+Portez à ébullition, baissez le feu et laissez mijoter pendant 10 minutes, sur feu doux.
+
+Goutez et rectifiez éventuellement l’assaisonnement. Il doit y avoir un équilibre à la fois sucré, épicé,
+
+acide et salé.
+
+Ajoutez les lanières de feuilles d’épinard, mélangez puis couvrez.
+
+Augmentez le feu à feu moyen puis laissez cuire pendant 5 minutes environ, jusqu’à ce que les
+
+épinards soient « fondus ».
+
+Servez et parsemez de graines de sésame.
 
