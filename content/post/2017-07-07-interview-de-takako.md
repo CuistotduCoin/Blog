@@ -1,13 +1,10 @@
 ---
-title: "Interview de Takako"
-description: "
-  Cuistot du Coin a rencontré Takako, une cuisinière hors pair, qui nous invite
-  à découvrir le Japon, son pays d'origine, au travers de délicieuses
-  préparations culinaires lors d'ateliers authentiques !"
-image: "/images/takako.jpg"
+title: Rencontre avec Takako
+description: ' Cuistot du Coin a rencontré Takako, une cuisinière hors pair, qui nous invite à découvrir le Japon, son pays d''origine, au travers de délicieuses préparations culinaires lors d''ateliers authentiques !'
+image: /images/takako.jpg
 categories:
-  - "cuistots"
-date: "2017-07-10T08:09:45.502Z"
+  - cuistots
+date: '2017-07-10T08:09:45.502Z'
 ---
 **Cuisiner est pour nous une passion. Et toi, quelle est ton histoire avec la cuisine ?**
 
@@ -44,3 +41,4 @@ I faudrait absolument se rendre à Okazaki pour découvrir la fabrication du mis
 Je conseillerais aussi la visite des champs de thé en période de récolte, vers fin avril, à Shizuoka.
 
 Je recommande aussi une étape à Sakaï pour leurs couteaux !
+
