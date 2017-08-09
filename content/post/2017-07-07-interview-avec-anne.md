@@ -1,5 +1,5 @@
 ---
-title: 'Interview avec Anne '
+title: Rencontre avec Anne
 description: >-
   La cuisine comme moyen d'expression ! Et il n'y a pas d'âge pour commencer !
   Rencontre avec Anne et découverte de ses ateliers pour des cuisiniers en herbe
@@ -120,4 +120,5 @@ Augmentez le feu à feu moyen puis laissez cuire pendant 5 minutes environ, jusq
 épinards soient « fondus ».
 
 Servez et parsemez de graines de sésame.
+
 
