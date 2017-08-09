@@ -45,8 +45,6 @@ Ce serait un plat avec des épices et du lait de coco. Pour en citer un, je dira
 
 Sans hésitation, ce serait le sentier côtier Pont-Aven – Port Manac’h.
 
-
-
 **Si tu avais une recette à nous partager, ce serait ?**
 
 Voici ma recette de curry pour 4 personnes
@@ -120,5 +118,3 @@ Augmentez le feu à feu moyen puis laissez cuire pendant 5 minutes environ, jusq
 épinards soient « fondus ».
 
 Servez et parsemez de graines de sésame.
-
-
