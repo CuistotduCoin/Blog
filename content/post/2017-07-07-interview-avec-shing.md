@@ -1,5 +1,5 @@
 ---
-title: Interview avec Shing
+title: Rencontre avec Shing
 description: >-
   Originaire de Singapour, lieu surnommé Food Paradise, Shing témoigne et nous
   partage son lien à la cuisine.
@@ -47,6 +47,8 @@ On déroule une pâte feuilletée. On place sur une moitié les épinards, on re
 On enfourne 20 minutes et c’est prêt !
 
 Bon appétit !
+
+
 
 
 
