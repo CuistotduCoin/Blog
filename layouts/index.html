@@ -3,15 +3,15 @@
 {{ partial "navbar.html" . }}
 
 <div class="container main">
-    <div class="row">
-      <div class="card-group">
-        {{ $paginator := 9 .Data.Pages }}
-        {{ range $paginator.Pages }}
-          {{ .Render "summary" | markdownify }}
-        {{ end }}
+  <div class="row">
+    <div class="card-group">
+      {{ $paginator := 9 .Data.Pages }}
+      {{ range $paginator.Pages }}
+        {{ .Render "summary" | markdownify }}
+      {{ end }}
       </div>
     </div>
-
+  <div class="col-md-12">{{ partial "pagination.html" . }}</div>
 </div>
 {{ partial "footer.copyright.html" . }}
 {{ partial "footer.html" . }}
