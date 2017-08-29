@@ -3,7 +3,7 @@ title: 'La pause gourmande dans votre entreprise '
 description: >-
   Envie de chouchouter vos collaborateurs, de motiver et fédérer vos équipes ?
   Offrez leurs une pause gourmande et participative avec Cuistot du Coin !
-image: /images/IMG_9175.JPG
+image: /images/pause-gourmande-entrerprise.jpg
 categories:
   - Entreprises
 date: 2017-08-09T08:22:52.241Z
@@ -19,3 +19,4 @@ De nombreuses formules sont possibles : accueil gourmand, repas ou encore apéri
 Le temps d’une pause gourmande, notre Cuistot réunit les participants autour de billig pour leur apprendre à confectionner de délicieuses crêpes sucrées. A l’issue de l’atelier, place à la dégustation !
 
 Contactez-nous par mail (contact@cuistotducoin.com) ou au 06 79 59 88 48 pour organiser une expérience culinaire Cuistot du Coin au sein de votre entreprise.
+
