@@ -1,5 +1,5 @@
 ---
-title: Révéler la puissance du collaboratif avec Rosalie Life
+title: Révéler la puissance du collaboratif
 description: >-
   Rosalie Life une aventure entrepreneuriale portée par deux femmes brestoises.
   Marina Bouchet et Cécile Huchet.
@@ -19,6 +19,7 @@ Rosalie Life propose depuis l’été 2017 une Carte Rosalie et tout un programm
 - apprendre et partager : Quand je le souhaite, sur le web comme en présentiel, je m’informe, j’échange des savoirs et des services, je mutualise ...
 
 - profiter : Bons Plans que Rosalie Life repère pour ma famille et moi toute l’année. Sorties en mer, randos, troglogîtes, ateliers cuisine,… J’aide l’économie locale et je bénéficie de tarifs préférentiels.
+
 
 
 
