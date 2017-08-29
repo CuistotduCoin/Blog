@@ -3,7 +3,7 @@ title: Offrez un atelier à vos proches !
 description: >-
   Pour la fête des mères, notre pâtissier a proposé un atelier spécial Fraisier
   qui a fait le bonheur des papilles de nos Gourmets et de leurs proches !
-image: /images/IMG_1538.JPG
+image: /images/offrir-un-atelier.jpg
 categories:
   - Ateliers
 date: 2017-08-09T07:58:54.767Z
@@ -25,3 +25,4 @@ Cuistot du Coin enverra une carte cadeau par courrier ou par voie électronique 
 Pour un aperçu de nos ateliers, voici une [vidéo](https://www.youtube.com/watch?v=xNHjSV7GFLs) de notre dernier atelier spécial Fête des Mères !
 
 A bientôt aux fourneaux !
+
