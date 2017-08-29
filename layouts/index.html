@@ -5,7 +5,7 @@
 <div class="container main">
     <div class="row">
       <div class="card-group">
-        {{ $paginator := .Paginate .Data.Pages }}
+        {{ $paginator := 9 .Data.Pages }}
         {{ range $paginator.Pages }}
           {{ .Render "summary" | markdownify }}
         {{ end }}
