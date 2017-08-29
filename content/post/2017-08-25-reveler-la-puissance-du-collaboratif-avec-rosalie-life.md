@@ -20,3 +20,4 @@ Rosalie Life propose depuis l’été 2017 une Carte Rosalie et tout un programm
 
 - profiter : Bons Plans que Rosalie Life repère pour ma famille et moi toute l’année. Sorties en mer, randos, troglogîtes, ateliers cuisine,… J’aide l’économie locale et je bénéficie de tarifs préférentiels.
 
+
