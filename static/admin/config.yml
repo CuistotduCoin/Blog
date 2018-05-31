@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Cuistot-du-coin/Blog
+  repo: Cuistotducoin/Blog
   branch: master
 
 publish_mode: editorial_workflow
