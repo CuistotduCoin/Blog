@@ -10,8 +10,7 @@ categories:
   - Entreprises
 date: '2018-06-01T10:25:06+02:00'
 ---
-**Qu’est-ce que le team building en entreprise ?
-**
+**Qu’est-ce que le team building en entreprise ?**
 
 Apparu dans les années 1980 aux Etats-Unis, le team building est aujourd’hui un terme utilisé un peu partout. En effet, on retrouve de nombreuses entreprises qui utilisent le team building à Paris, à Lyon et dans bien d’autres grandes villes. Mais cette tendance ne s’arrête pas là, de nombreuses villes moyennes comme Quimper ou Brest utilise le team building.
 
