@@ -16,7 +16,7 @@ Apparu dans les années 1980 aux Etats-Unis, le team building est aujourd’hui 
 
 En ce qui concerne **la définition du team building**, elle est simple : c’est le fait que les compétences individuelles soient optimisées grâce au travail en équipe. Effectivement, sa traduction en français est celle-ci : « construction d’équipe ».  Cette méthode permet donc de soit renforcer des liens entre le personnel soit de créer des liens entre des personnes ne se connaissant pas au sein d’une entreprise. 
 
-**Les cas d’utilisation** du team building peuvent être très variés et dépendent de la situation de l’entreprise. Si cette méthode peut être utilisée lors de cas de crise comme des conflits entre les salariés ou alors une fusion entre deux entreprises, elle peut aussi être utilisée dans des contextes plus généraux. Par exemple, pour intégrer des nouveaux salariés ou alors pour l’arrivée d’un salarié dans un autre service. Dans tous les cas cités, le maître mot est donc** la cohésion d’équipe**.
+**Les cas d’utilisation** du team building peuvent être très variés et dépendent de la situation de l’entreprise. Si cette méthode peut être utilisée lors de cas de crise comme des conflits entre les salariés ou alors une fusion entre deux entreprises, elle peut aussi être utilisée dans des contextes plus généraux. Par exemple, pour intégrer des nouveaux salariés ou alors pour l’arrivée d’un salarié dans un autre service. Dans tous les cas cités, le maître mot est donc **la cohésion d’équipe**.
 
 **Les avantages du team building** sont donc nombreux :
 
