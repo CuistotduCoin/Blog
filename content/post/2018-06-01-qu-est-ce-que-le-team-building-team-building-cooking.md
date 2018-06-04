@@ -50,6 +50,6 @@ Aussi, le fait que les participants assistent à l’atelier avec un professionn
 
 A la suite de l’atelier, les participants dégustent donc leur préparation avec leur collègue dans une **ambiance conviviale**. C’est un moment de partage où chacun peut parler de l’expérience de team building qu’ils ont vécu ou alors renforcer leur lien via d’autres sujets de discussions.
 
-Enfin, les activités culinaires de team building sont un **excellent rapport qualité-prix**. En plus de réaliser une activité qui favorise la cohésion d’équipe, le prix du repas est inclus puisqu’ils mangent ce qu’ils viennent de réaliser par eux-mêmes. 
+Enfin, les activités culinaires de team building sont un **excellent rapport qualité-prix**. En plus de réaliser une activité qui favorise la cohésion d’équipe, le prix du repas est inclus puisqu’ils mangent ce qu’ils viennent de réaliser. 
 
 Si vous souhaitez vous aussi réaliser une activité de team building dans votre entreprise, n’hésitez pas à prendre connaissance de [nos ateliers de cuisine](https://www.cuistotducoin.com/) ou à **nous contacter** par email : contact@cuistotducoin.com ou par téléphone au :  06.79.59.88.48.
