@@ -10,7 +10,7 @@ categories:
   - Entreprises
 date: '2018-06-01T10:25:06+02:00'
 ---
-**Qu’est-ce que le team building en entreprise**?
+## **Qu’est-ce que le team building en entreprise**?
 
 Apparu dans les années 1980 aux Etats-Unis, le team building est aujourd’hui un terme utilisé un peu partout. En effet, on retrouve de nombreuses entreprises qui utilisent le team building à Paris, à Lyon et dans bien d’autres grandes villes. Mais cette tendance ne s’arrête pas là, de nombreuses villes moyennes comme Quimper ou Brest utilise le team building.
 
@@ -32,13 +32,13 @@ En ce qui concerne **la définition du team building**, elle est simple : c’es
 
 \-	Satisfaction des salariés…
 
-**Comment mettre en place le team building**?
+## **Comment mettre en place le team building**?
 
 Pas de secret, l’entreprise doit organiser des temps où les employés des équipes concernées sont ensemble. Il faut donc que les chefs de service, RRH ou chefs d’entreprise organisent **des activités de team building**.  
 
 De nombreuses solutions sont offertes par des agences ou des entreprises spécialisées dans le domaine. Cela permet d’offrir un large choix en ce qui concerne les activités, on peut donc trouver des activités de team building culinaire, artistique ou des activités plus basiques comme le sport ou les escape games. Néanmoins le but est le même pour toutes ces activités :** la cohésion d’équipe**.
 
-**Le team building et la cuisine**
+## **Le team building et la cuisine**
 
 Parmi toutes les activités pouvant être effectuées, les ateliers de cuisine ont beaucoup d’avantages.
 
