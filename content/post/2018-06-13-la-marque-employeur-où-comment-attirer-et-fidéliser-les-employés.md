@@ -12,7 +12,7 @@ date: '2018-06-13T15:28:26+02:00'
 ---
 ## Définition de la marque employeur
 
-La marque employeur est un terme utilisé principalement dans les **services RH **car il est lié au recrutement de talents ainsi qu’à la **fidélisation des employés**. On dit aussi que la marque employeur est une composante du **marketing RH**. Tout comme en marketing, les objectifs sont :
+La marque employeur est un terme utilisé principalement dans les **services RH**car il est lié au recrutement de talents ainsi qu’à la **fidélisation des employés**. On dit aussi que la marque employeur est une composante du **marketing RH**. Tout comme en marketing, les objectifs sont :
 
 \-	**Attirer** en rendant la marque séduisante auprès des potentiels salariés 
 
@@ -24,7 +24,7 @@ Aujourd’hui, cette problématique est portée au sein de nombreuses entreprise
 
 Il y a **plusieurs raisons** qui peuvent pousser une entreprise à mettre en place une stratégie de marque employeur :
 
-\-	Elle **n’arrive pas à recruter **les profils qu’elle convoite
+\-	Elle **n’arrive pas à recruter** les profils qu’elle convoite
 
 \-	Elle **ne reçoit pas** de demande **de candidature**
 
