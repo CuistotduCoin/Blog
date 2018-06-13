@@ -12,7 +12,7 @@ date: '2018-06-13T15:28:26+02:00'
 ---
 ## Définition de la marque employeur
 
-La marque employeur est un terme utilisé principalement dans les **services RH**car il est lié au recrutement de talents ainsi qu’à la **fidélisation des employés**. On dit aussi que la marque employeur est une composante du **marketing RH**. Tout comme en marketing, les objectifs sont :
+La marque employeur est un terme utilisé principalement dans les **services RH** car il est lié au recrutement de talents ainsi qu’à la **fidélisation des employés**. On dit aussi que la marque employeur est une composante du **marketing RH**. Tout comme en marketing, les objectifs sont :
 
 \-	**Attirer** en rendant la marque séduisante auprès des potentiels salariés 
 
@@ -24,7 +24,7 @@ Aujourd’hui, cette problématique est portée au sein de nombreuses entreprise
 
 Il y a **plusieurs raisons** qui peuvent pousser une entreprise à mettre en place une stratégie de marque employeur :
 
-\-	Elle **n’arrive pas à recruter** les profils qu’elle convoite
+\-	Elle **n’arrive pas à recruter **les profils qu’elle convoite
 
 \-	Elle **ne reçoit pas** de demande **de candidature**
 
@@ -46,6 +46,6 @@ Vous l’aurez compris, pour attirer de nouveaux talents, il faut que votre entr
 
 En plus d’attirer des candidats, **les employés** déjà en poste **profiteront des avantages** de ces activités, espace détente… Cela permettra à la fois de **favoriser leur sentiment d’appartenance** ainsi que **leur bien-être au travail**. Vous pourrez alors faire de la **communication interne** auprès d’eux via des newsletters, l’intranet, etc.
 
-Enfin, depuis quelques années différents organismes font des classements des entreprises où il fait bon travailler. Vous pouvez par exemple tenter votre chance auprès de « **Great Place To Work** ». Si vous êtes sélectionné, vous obtiendrez un **label reconnu** que vous pourrez utiliser dans votre communication et dans vos offres d’emploi. Les candidats étant de plus en plus sensibles au bien-être au travail y verront un avantage certain à postuler à vos offres.
+Enfin, depuis quelques années différents organismes font des classements des entreprises où il fait bon travailler. Vous pouvez par exemple tenter votre chance auprès de « **Great Place To Work** ». Si vous êtes sélectionné, vous obtiendrez un** label reconnu** que vous pourrez utiliser dans votre communication et dans vos offres d’emploi. Les candidats étant de plus en plus sensibles au bien-être au travail y verront un avantage certain à postuler à vos offres.
 
 Si vous chercher des activités pour **attirer et fidéliser**, n’hésitez pas à consulter [nos offres d’ateliers de cuisine](https://www.cuistotducoin.com/) pour entreprises ou à nous contacter par téléphone (06.79.59.88.48.) ou par email (contact@cuistotducoin.com).
