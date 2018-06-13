@@ -22,19 +22,19 @@ Aujourd’hui, cette problématique est portée au sein de nombreuses entreprise
 
 ## Pourquoi mettre en place une stratégie ?
 
-Il y a plusieurs raisons qui peuvent pousser une entreprise à mettre en place une stratégie de marque employeur :
+Il y a **plusieurs raisons** qui peuvent pousser une entreprise à mettre en place une stratégie de marque employeur :
 
-\-	Elle n’arrive pas à recruter les profils qu’elle convoite
+\-	Elle **n’arrive pas à recruter **les profils qu’elle convoite
 
-\-	Elle ne reçoit pas de demande de candidature
+\-	Elle **ne reçoit pas** de demande **de candidature**
 
-\-	Le turn-over y est important
+\-	Le **turn-over** y est important
 
-\-	Les employés ont le sentiment de ne pas être utile
+\-	Les employés ont le **sentiment de ne pas être utile**
 
 Les raisons peuvent être diverses : l’entreprise n’a pas une bonne image dans la société ou en tant qu’employeur, elle peut également être située dans une ville ou un secteur d’activité peu attractif, etc.
 
-La mise en place de cette stratégie va donc contrer les problèmes de la marque via : l’attractivité, la création de lien, l’humanisation des échanges et de l’entreprise. L’attractivité va donc permettre de faire venir de nouveaux postulants ainsi que de pouvoir dénicher des talents. Quant à la création de lien et l’humanisation, cela permettra de favoriser le sentiment d’appartenance à l’entreprise et par ce biais les salariés se sentiront utile et voudront rester dans leur société. Tous ces éléments permettent également d’améliorer la réputation de la société.
+La **mise en place** de cette stratégie va donc **contrer les problèmes de la marque via** : l’attractivité, la création de lien, l’humanisation des échanges et de l’entreprise. **L’attractivité** va donc permettre de faire venir de nouveaux postulants ainsi que de pouvoir dénicher des talents. Quant à **la création de lien et l’humanisation**, cela permettra de favoriser le **sentiment d’appartenance** à l’entreprise et par ce biais les salariés se sentiront utiles et voudront rester dans leur société. Tous ces éléments permettent également d’**améliorer la réputation** de la société.
 
 ## Comment faire ?
 
