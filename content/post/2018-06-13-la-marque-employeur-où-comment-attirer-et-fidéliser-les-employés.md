@@ -38,13 +38,13 @@ La **mise en place** de cette stratégie va donc **contrer les problèmes de la 
 
 ## Comment faire ?
 
-Pour ce faire, il va falloir mettre en place des actions marketing et de communication. Selon vos objectifs, il ne faudra pas communiquer de la même manière.
+Pour ce faire, il va falloir **mettre en place des actions marketing et de communication**. Selon vos objectifs, il ne faudra pas communiquer de la même manière.
 
-Si vous souhaitez attirer des candidats, il faudra utiliser la communication externe. Vous pourrez alors utiliser les réseaux sociaux, des vidéos sur YouTube ou des articles de presse par exemple. Le but étant de mettre en avant les atouts de votre entreprise vous pourrez alors interviewer vos salariés sur les conditions de vie au travail ou alors parler des activités qu’organise votre entreprise pour le bien-être des employés. Par exemple : les sorties, les activités, les évènements et même vos locaux et ses espaces détente. 
+Si vous souhaitez **attirer** des candidats, il faudra utiliser la **communication externe**. Vous pourrez alors utiliser les réseaux sociaux, des vidéos sur YouTube ou des articles de presse par exemple. Le but étant de mettre en avant les atouts de votre entreprise vous pourrez alors interviewer vos salariés sur les **conditions de vie au travail** ou alors parler des activités qu’organise votre entreprise pour le bien-être des employés. Par exemple : les sorties, les activités, les événements et même vos locaux et leurs espaces détente. 
 
-Vous l’aurez compris, pour attirer de nouveaux talents il faut que votre entreprise propose un cadre de travail attrayant. Pour cela, c’est à vous d’imaginer ce qui pourrait être mis en place.
+Vous l’aurez compris, pour attirer de nouveaux talents, il faut que votre entreprise propose un cadre de travail attrayant. Pour cela, c’est à vous d’imaginer ce qui pourrait être mis en place.
 
-En plus d’attirer des candidats, les employés déjà en poste profiteront des avantages de ces activités, espace détente… Cela permettra à la fois de favoriser leur sentiment d’appartenance ainsi que leur bien-être au travail. Vous pourrez alors faire de la communication interne auprès d’eux via des newsletters, l’intranet, etc.
+En plus d’attirer des candidats, **les employés** déjà en poste **profiteront des avantages** de ces activités, espace détente… Cela permettra à la fois de **favoriser leur sentiment d’appartenance** ainsi que **leur bien-être au travail**. Vous pourrez alors faire de la **communication interne** auprès d’eux via des newsletters, l’intranet, etc.
 
 Enfin, depuis quelques années différents organismes font des classements des entreprises où il fait bon travailler. Vous pouvez par exemple tenter votre chance auprès de « Great Place To Work ». Si vous êtes sélectionné, vous obtiendrez un label reconnu que vous pourrez utiliser dans votre communication et dans vos offres d’emploi. Les candidats étant de plus en plus sensible au bien-être au travail y verront un avantage certain à postuler à vos offres.
 
