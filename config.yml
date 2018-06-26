@@ -3,4 +3,5 @@ baseURL: "/"
 title: "Cuistot du coin"
 paginate: 8
 canonifyURLs: true
+googleAnalytics: UA-85934313-1
 ---
