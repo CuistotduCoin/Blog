@@ -4,7 +4,8 @@ description: >-
   Les repas sont des moments essentiels dans nos journées, pourquoi ne le
   seraient-ils pas en entreprise ? L'organisation de repas en entreprise que ce
   soit des buffets froids ou des repas à table est importante pour de nombreuses
-  raisons.  
+  raisons. Cuistot du Coin vous propose des solutions de repas en entreprise à
+  Brest et ses alentours.
 categories:
   - Entreprise
 date: '2018-07-09T11:37:42+02:00'
