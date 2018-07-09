@@ -7,6 +7,7 @@ description: >-
   spécialités japonaises. Chaque semaine, retrouvez une nouvelle recette typique
   du pays mit en avant. Aujourd'hui, nous vous proposons de réaliser une soupe
   miso en 10 minutes.   
+image: /images/classic-miso-soup.jpg
 categories:
   - Recettes
 date: '2018-07-09T15:43:00+02:00'
