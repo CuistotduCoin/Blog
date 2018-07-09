@@ -6,6 +6,7 @@ description: >-
   soit des buffets froids ou des repas à table est importante pour de nombreuses
   raisons. Cuistot du Coin vous propose des solutions de repas en entreprise à
   Brest et ses alentours.
+image: /images/img_20180621_184816.jpg
 categories:
   - Entreprise
 date: '2018-07-09T11:37:42+02:00'
