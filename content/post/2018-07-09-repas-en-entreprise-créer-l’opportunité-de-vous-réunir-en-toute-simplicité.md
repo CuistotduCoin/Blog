@@ -13,13 +13,13 @@ date: '2018-07-09T11:37:42+02:00'
 ---
 Que ce soit dans les petites ou les grandes entreprises, la qualité de vie au travail devient de plus en plus importante dans l’esprit des employés. Il existe d’ailleurs une multitude de possibilités qui permettent aux salariés de se sentir **bien au travail** : activités, sorties, aménagement d’une salle de pause …
 
-L’idéal est aussi d’instaurer un **rituel au sein de l’entreprise **et quoi de mieux qu’un **repas pour réunir les équipes et profiter d’un moment convivial**. L’organisation de repas partagés tous les mois ou tous les trimestres permet aux équipes de mieux se connaître, et ce dans une ambiance chaleureuse.
+L’idéal est aussi d’instaurer un **rituel au sein de l’entreprise** et quoi de mieux qu’un **repas pour réunir les équipes et profiter d’un moment convivial**. L’organisation de repas partagés tous les mois ou tous les trimestres permet aux équipes de mieux se connaître, et ce dans une ambiance chaleureuse.
 
  
 
 ## Pourquoi organiser des repas en entreprise ?
 
-**Le moment idéal **: Les repas rythment les journées en entreprise de tous et sont un temps de repos idéal pour se réunir, sans empiéter sur les temps de travail de chacun.
+**Le moment idéal** : Les repas rythment les journées en entreprise de tous et sont un temps de repos idéal pour se réunir, sans empiéter sur les temps de travail de chacun.
 
 Pour la **simplicité et praticité** : Toutes entreprises, TPE, PME ou grands groupes, peuvent mettre en place des repas, propices au rassemblement de l’ensemble des collaborateurs, à la réunion de services ou à la rencontre de groupes de collaborateurs plus restreints.
 
