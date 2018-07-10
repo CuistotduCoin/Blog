@@ -28,9 +28,7 @@ Vous trouverez tous les ingrédients nécessaires dans des supermarchés traditi
 
 \- Légumes de saison
 
-
-
-Préparation de la soupe
+## Préparation de la soupe
 
 1. Cuire à la vapeur les légumes de saison que vous avez choisi.
 2. Couper le tofu en petits cubes de 1cm environ.
