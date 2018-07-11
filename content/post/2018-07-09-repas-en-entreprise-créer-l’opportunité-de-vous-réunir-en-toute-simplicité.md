@@ -8,7 +8,7 @@ description: >-
   Brest et ses alentours.
 image: /images/img_20180621_184816.jpg
 categories:
-  - Entreprise
+  - Entreprises
 date: '2018-07-09T11:37:42+02:00'
 ---
 Que ce soit dans les petites ou les grandes entreprises, la qualité de vie au travail devient de plus en plus importante dans l’esprit des employés. Il existe d’ailleurs une multitude de possibilités qui permettent aux salariés de se sentir **bien au travail** : activités, sorties, aménagement d’une salle de pause …
