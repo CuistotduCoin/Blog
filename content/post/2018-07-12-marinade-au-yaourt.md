@@ -35,3 +35,5 @@ Sel et poivre
 4. Ajouter l’ail, zestez le citron et pressez-le puis ajoutez l’huile et le poivre rose
 5. Assaisonné le tout avec du sel et du poivre
 6. Enfin, laissez la viande dans la marinade pendant 1 heure afin de l’attendrir
+
+Vous aimez nos recettes ? Alors [découvrez notre univers !](https://www.cuistotducoin.com/)
