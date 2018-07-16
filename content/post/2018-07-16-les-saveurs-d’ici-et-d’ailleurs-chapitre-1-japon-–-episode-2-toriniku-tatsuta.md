@@ -21,17 +21,16 @@ Huile végétale
 
 1 cuillère à soupe de jus de gingembre
 
-3 cuillères à soupe de sake
+3 cuillères à soupe de saké
 
 4 cuillères à soupe de sauce de soja
 
 ## Préparation du poulet frit :
 
-1. Mélanger le jus de gingembre, le sake et la sauce de soja pour préparer la marinade
+1. Mélanger le jus de gingembre, le saké et la sauce de soja pour préparer la marinade
 2. Faire mariner le poulet pendant 30 minutes
 3. Paner les morceaux de poulet avec la fécule de pomme de terre, laisser reposer 2 à 3 minutes.
 4. Chauffer l'huile à 180° dans une casserole, faire dorer le poulet, bien égoutter.
-5. Servir avec des tranches de tomates et décorer avec le persil.
-6. Déguster
+5. Déguster
 
 Cette recette vous a plu ? Alors jetez un œil sur [nos univers culinaires](https://www.cuistotducoin.com/business)
