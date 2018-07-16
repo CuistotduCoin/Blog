@@ -11,7 +11,7 @@ categories:
   - Recettes
 date: '2018-07-16T14:52:45+02:00'
 ---
-## Les ingrédients pour le Toriniku Tatsuka 
+## Les ingrédients pour le Toriniku Tatsuka
 
 600g de poulet en morceaux 
 
@@ -23,22 +23,15 @@ Huile végétale
 
 3 cuillères à soupe de sake
 
-4 cuillères à soupe de sauce de soja 
+4 cuillères à soupe de sauce de soja
 
 ## Préparation du poulet frit :
 
-1: Mélanger le jus de gingembre, le sake et la sauce de soja pour préparer la marinade.
+1. Mélanger le jus de gingembre, le sake et la sauce de soja pour préparer la marinade
+2. Faire mariner le poulet pendant 30 minutes
+3. Paner les morceaux de poulet avec la fécule de pomme de terre, laisser reposer 2 à 3 minutes.
+4. Chauffer l'huile à 180° dans une casserole, faire dorer le poulet, bien égoutter.
+5. Servir avec des tranches de tomates et décorer avec le persil.
+6. Déguster
 
-2: Faire mariner le poulet pendant 30 minutes
-
-3: Paner les morceaux de poulet avec la fécule de pomme de terre, laisser reposer 2 à 3 minutes.
-
-4: Chauffer l'huile à 180° dans une casserole, faire dorer le poulet, bien égoutter.
-
-5: Servir avec des tranches de tomates et décorer avec le persil.
-
-6 : Bonne dégustation
-
-
-
-Cette recette vous a plu ? Alors jetez un œil sur nos univers culinaires
+Cette recette vous a plu ? Alors jetez un œil sur [nos univers culinaires](https://www.cuistotducoin.com/business)
