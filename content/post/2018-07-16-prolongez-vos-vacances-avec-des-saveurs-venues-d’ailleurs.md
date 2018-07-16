@@ -20,7 +20,7 @@ Malheureusement, ce n’est pas 5 minutes avec vos collègues qui vont vous chan
 
 ## Mais comment voyager au bureau ?
 
-**La solution est simple : la cuisine !** Dites au revoir à vos plats traditionnels fait maison, vos salades ou vos plats préparés et **dites oui aux nouvelles **[**saveurs exotiques**](https://www.cuistotducoin.com/business) de contrées lointaines.
+**La solution est simple : la cuisine !** Dites au revoir à vos plats traditionnels fait maison, vos salades ou vos plats préparés et dites oui aux nouvelles [saveurs exotiques](https://www.cuistotducoin.com/business) de contrées lointaines.
 
 Plusieurs options existent :
 
