@@ -5,6 +5,7 @@ description: >-
   partis, les bureaux se vident et laissent place aux envies de vacances,
   d’évasions lointaines et de soleil.  Et pourquoi ne partiriez-vous pas en
   vacances le temps d’un repas au sein même de votre entreprise ?
+image: /images/hanny-naibaho-388594-unsplash.jpg
 categories:
   - Entreprises
 date: '2018-07-16T10:43:22+02:00'
