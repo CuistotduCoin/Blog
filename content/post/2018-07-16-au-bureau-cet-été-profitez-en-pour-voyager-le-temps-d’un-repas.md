@@ -10,7 +10,7 @@ categories:
   - Entreprises
 date: '2018-07-16T10:43:22+02:00'
 ---
-Que vous rentriez de vacances ou qu’il vous reste encore quelques semaines avant de partir, **toutes les occasions sont bonnes pour vous faire chouchouter lors d’un repas convivial!**
+Que vous rentriez de vacances ou qu’il vous reste encore quelques semaines avant de partir, **toutes les occasions sont bonnes pour vous faire chouchouter lors d’un repas convivial !** 
 
 ## Notre solution pour vous faire voyager
 
