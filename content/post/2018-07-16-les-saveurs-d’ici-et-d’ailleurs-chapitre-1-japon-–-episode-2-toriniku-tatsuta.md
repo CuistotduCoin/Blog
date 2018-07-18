@@ -1,17 +1,17 @@
 ---
 title: >-
-  Les Saveurs D’Ici et D’Ailleurs Chapitre 1 : Japon – Episode 2 : Toriniku
-  Tatsuta
+  Les Saveurs D’Ici et D’Ailleurs Chapitre 1 : Japon – Episode 2 : Toriniku No
+  Tatsuta Agé
 description: >-
   Ce mois-ci, Cuistot du Coin vous propose de découvrir ou de redécouvrir des
   spécialités japonaises. Cette semaine, nous vous présentons la recette du
-  Toriniku Tatsuka. Il s’agit d’un plat à base de poulet frit.
+  Toriniku No Tatsuta Agé. Il s’agit d’un plat à base de poulet frit.
 image: /images/tatsuta_2760_1024-545x363.jpg
 categories:
   - Recettes
 date: '2018-07-16T14:52:45+02:00'
 ---
-## Les ingrédients pour le Toriniku Tatsuka
+## Les ingrédients pour le Toriniku No Tatsuta Agé
 
 600g de poulet en morceaux 
 
