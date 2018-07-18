@@ -6,7 +6,7 @@ description: >-
   Ce mois-ci, Cuistot du Coin vous propose de découvrir ou de redécouvrir des
   spécialités japonaises. Cette semaine, nous vous présentons la recette du
   Toriniku No Tatsuta Agé. Il s’agit d’un plat à base de poulet frit.
-image: /images/tatsuta_2760_1024-545x363.jpg
+image: /images/img_7320.jpg
 categories:
   - Recettes
 date: '2018-07-16T14:52:45+02:00'
