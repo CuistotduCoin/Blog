@@ -5,6 +5,7 @@ description: >-
   spécialités japonaises. Cette semaine, nous vous présentons la recette de
   Kashiwa-mochi. Il s'agit d'un mochi traditionnel principalement mangé pendant
   le festival Kodomo no Hi.
+image: /images/100001794_l_main_1000717599_8368601003.jpg
 categories:
   - Recettes
 date: '2018-07-23T16:29:57+02:00'
