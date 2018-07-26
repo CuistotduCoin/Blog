@@ -4,7 +4,7 @@ description: >-
   Vous êtes un passionné de cuisine ou vous connaissez quelqu’un qui l’est ? Que
   vous soyez professionnel ou amateur de cuisine, nous recherchons de nouveaux
   Cuistots pour rejoindre Cuistot du Coin. 
-image: /images/100001794_l_main_1000717599_8368601003.jpg
+image: /images/img_5122.jpg
 categories:
   - Cuistots
 date: '2018-07-26T12:14:30+02:00'
