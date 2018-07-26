@@ -1,5 +1,5 @@
 ---
-title: Pourquoi devenir un Cuistot ?
+title: Pourquoi devenir Cuistot ?
 description: >-
   Vous êtes un passionné de cuisine ou vous connaissez quelqu’un qui l’est ? Que
   vous soyez professionnel ou amateur de cuisine, nous recherchons de nouveaux
