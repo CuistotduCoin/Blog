@@ -37,7 +37,7 @@ Chez Cuistot du Coin, nous voulons révéler les talents culinaires de chacun. A
 
 **Ahmed** – Cuisine Camerounaise : « **Il y a pas lieu d’hésiter**, c’est l’endroit idéal pour réussir, on apprend tous les jours, on ne peut que s’inspirer. Ce sera un partage, un enjeu sur le plan humain. Rien que le fait de se retrouver de temps en temps avec les Cuistots qui viennent de différents horizons c’est très **très riche en enseignement**. »
 
-**Nadine** – Artisan Maître Crêpier : « A chaque fois **c’est des bons moments**. Les gens repartent ravis de la prestation et ça me donne envie de continuer. »
+**Nadine** – Maître Artisan Crêpier : « A chaque fois **c’est des bons moments**. Les gens repartent ravis de la prestation et ça me donne envie de continuer. »
 
 **Anne** – Cuisine bienveillante pour les enfants : « Je dirais de ne pas hésiter parce qu’il y a une **bonne ambiance**. Le fait qu’on se rencontre régulièrement ça **permet d’échanger sur nos problématiques** : les questions d’organisation, de réglementation… sur beaucoup de questions que l’on peut se poser quand on est indépendant. Il y a une bonne ambiance, on se marre bien et surtout c’est une **belle vitrine** ».
 
