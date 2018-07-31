@@ -4,6 +4,8 @@ description: >-
   Ce mois-ci, Cuistot du Coin vous propose de découvrir ou de redécouvrir des
   spécialités culinaires japonaises. Cette semaine changement de programme ! Au
   lieu d'une recette, nous vous proposons d'effectuer un quiz sur le Japon.
+image: >-
+  /images/création-des-garnitures-sucrées-garnissage-des-crêpes-et-dégustation.jpg
 categories:
   - Recettes
 date: '2018-07-31T15:02:12+02:00'
