@@ -4,7 +4,7 @@ description: >-
   Toutes entreprises, petites, moyennes ou grandes ont un point en commun ! Que
   ce soit en septembre ou tout au long de l’année, de nouveaux arrivants
   viennent mettre la main à la pâte : les ALTERNANTS/STAGIAIRES.
-image: /images/img_0009.jpg
+image: /images/photo-1532597540419-b176991847e8.jpg
 categories:
   - Entreprises
 date: '2018-08-02T17:39:26+02:00'
