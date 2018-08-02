@@ -53,14 +53,14 @@ L’arrivée de nouveaux stagiaires nécessite de l’énergie et vous aurez dé
 
 Pour vous permettre une intégration réussie au sein de l’équipe et un bon investissement de la part de vos nouveaux collaborateurs, créez l’occasion de réunir vos équipes pour privilégier les échanges, les rencontres et les découvertes. Et ce, en toute simplicité pour ne pas surcharger les journées, bouleverser les emplois du temps ou vous demander des efforts de logistique conséquents.
 
-Cuistot du Coin, c’est avant tout : le partage, la convivialité et la transmission de savoir et savoir-faire. Nous vous proposons de préparer votre repas de bienvenue. 
+Cuistot du Coin, c’est avant tout : le partage, la convivialité et la transmission de savoir et savoir-faire. Nous vous proposons de [préparer votre repas de bienvenue](https://www.cuistotducoin.com/business). 
 
 * Il peut prendre la forme d’un buffet à partager pour garantir des moments de convivialité. Nos Cuistots se chargent de tout : de la mise en place au service. Place à la dégustation dans une ambiance décontractée.
 * Il peut s’agir d’un repas à table pour un déjeuner plus encadré et qui laissera la place à la présentation de chacun et des différentes missions des équipes.
 
-Et pour plus de partage, convivialité et une intégration réussie, organisez des ateliers de cuisine ! Vous pouvez alors :
+Et pour plus de partage, convivialité et une intégration réussie, organisez des [ateliers de cuisine](https://www.cuistotducoin.com/business) ! Vous pouvez alors :
 
 * Soit réaliser cet atelier avec votre service. Cela permettra au nouveau stagiaire de faire connaissance avec son équipe.
 * Soit réserver l’atelier pour les nouveaux arrivants, ce qui leur permettra de créer des liens dès leurs débuts dans l’entreprise.
 
-Pour plus de renseignements, n’hésitez pas à allez consultez nos offres en cliquant sur les mots soulignés ou à nous contacter par téléphone (06.79.59.88.48.) ou par email (contact@cuistotducoin.com).
+Pour plus de renseignements, n’hésitez pas à allez consultez nos offres en cliquant sur les mots soulignés ou à **nous contacter** par téléphone (06.79.59.88.48.) ou par email (contact@cuistotducoin.com).
