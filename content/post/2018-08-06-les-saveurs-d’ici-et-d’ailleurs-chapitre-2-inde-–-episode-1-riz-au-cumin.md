@@ -1,6 +1,10 @@
 ---
 title: 'Les Saveurs D’Ici et D’Ailleurs Chapitre 2 : Inde – Episode 1 : Poulet Korma'
-description: ff
+description: >-
+  Ce mois-ci, vous avez choisi de découvrir des recettes traditionnelles de
+  l'Inde. Cette semaine, nous commençons donc avec une recette de notre Cuistot
+  Shyam et de son association Namaste India. C'est le poulet qui est mis à
+  l'honneur avec la recette Poulet Korma.
 categories:
   - Recettes
 date: '2018-08-06T12:46:50+02:00'
