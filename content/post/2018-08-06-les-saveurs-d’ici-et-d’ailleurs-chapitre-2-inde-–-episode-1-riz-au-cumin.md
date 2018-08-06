@@ -1,13 +1,11 @@
 ---
-title: 'Les Saveurs D’Ici et D’Ailleurs Chapitre 2 : Inde – Episode 1 : Riz au cumin'
+title: 'Les Saveurs D’Ici et D’Ailleurs Chapitre 2 : Inde – Episode 1 : Poulet Korma'
 description: ff
 categories:
   - Recettes
 date: '2018-08-06T12:46:50+02:00'
 ---
 ## Les ingrédients pour le Poulet Korma
-
-
 
 **Préparation de base**
 
@@ -37,9 +35,8 @@ date: '2018-08-06T12:46:50+02:00'
 
 3 cardamones noires ou 6 cardamones vertes
 
-
-
-**Préparation Masala**
+**Préparation Masala
+**
 
 ½ cuil. à café curcuma
 
@@ -53,16 +50,10 @@ date: '2018-08-06T12:46:50+02:00'
 
 ½ c. à café de cardamone vert
 
-
-
 2 c. à soupe de coriandre fraîche
 
 safran 
 
 sel
 
-
-
-
-
-Préparation du Poulet Korma
+**Préparation du Poulet Korma**
