@@ -5,6 +5,7 @@ description: >-
   l'Inde. Cette semaine, nous commençons donc avec une recette de notre Cuistot
   Shyam et de son association Namaste India. C'est le poulet qui est mis à
   l'honneur avec la recette Poulet Korma.
+image: /images/chicken-korma-coconut-cream-recipe.jpg
 categories:
   - Recettes
 date: '2018-08-06T12:46:50+02:00'
