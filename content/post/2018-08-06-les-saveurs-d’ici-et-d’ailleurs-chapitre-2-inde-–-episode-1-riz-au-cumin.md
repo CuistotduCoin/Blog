@@ -35,6 +35,12 @@ date: '2018-08-06T12:46:50+02:00'
 
 3 cardamones noires ou 6 cardamones vertes
 
+2 c. à soupe de coriandre fraîche
+
+safran 
+
+sel
+
 **Préparation Masala
 **
 
@@ -50,10 +56,18 @@ date: '2018-08-06T12:46:50+02:00'
 
 ½ c. à café de cardamone vert
 
-2 c. à soupe de coriandre fraîche
 
-safran 
 
-sel
+## Préparation du Poulet Korma
 
-**Préparation du Poulet Korma**
+1. Éplucher les oignons, le gingembre  et les gousses d’ail (enlever le germe) et hacher..
+2. Mélanger l’ail, le gingembre, (le piment vert), le sel, la noix de cajou, 2 cuil à café de massala, ½ cuil  à café curcuma  et le yaourt nature.
+3. Couper le poulet en petit morceaux et mélanger les avec la préparation. **Laisser reposer 1h**.
+4. Faire chauffer l’huile dans une cocotte et ajouter les clous de girofle, la cannelle et la cardamone noire, après 1 minute ajouter 1 oignon et faire revenir jusqu’à obtention d’une couleur dorée 
+5. Puis ajouter le masala (tous les ingrédients présents dans "préparation masala")
+6. Après 1 mn ajouter le poulet avec la marinade. Si besoin ajouter un peu d’eau.
+7. Laisser mijoter à couvert pendant 10 minutes et vérifier de temps en temps.
+8. Ajouter le lait de coco ou la crème fraîche et le safran et laisser cuire encore 5 minutes.
+9. Parsemer de coriandre fraiche et servir chaud.
+
+Bon appétit :)
