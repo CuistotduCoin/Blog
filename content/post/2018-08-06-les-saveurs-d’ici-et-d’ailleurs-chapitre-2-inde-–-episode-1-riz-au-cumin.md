@@ -46,8 +46,7 @@ safran
 
 sel
 
-**Préparation Masala
-**
+**Préparation Masala**
 
 ½ cuil. à café curcuma
 
