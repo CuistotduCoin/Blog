@@ -19,14 +19,24 @@ date: '2018-08-13T12:18:49+02:00'
 
 2 cuillères à soupe de curry 
 
-1 cuillère à café de curcuma et une autre de cumin (ou 2 cuillères de garam massala)
+1 cuillère à café de curcuma et une autre de cumin (ou 2 cuillères de garam massala
+)
 
 1 cuillère à café de coriandre 
 
 2 cuillères à soupe d’huile d’olive
 
-(1 navet ou une patate douce pour une soupe plus douce) 
-
 
 
 ## La préparation du Dahl
+
+1. Commencez par rincer les lentilles dans une passoire 
+2. Pelez et émincez l’oignon
+3. Faites revenir dans une grande casserole les oignons avec l’huile d’olive
+4. Ajoutez les lentilles corail et enfin les tomates concassées 
+5. Recouvrez le tout d’eau, environ 3 fois le volume
+6. Ajoutez ensuite les différentes épices (curry, curcuma, cumin ou garam massala)
+7. Laissez mijoter une trentaine de minutes, en remuant régulièrement pour lier les différents ingrédients.  Ajustez le temps de cuisson à la texture souhaitée
+8. À la fin de la cuisson saupoudrez de coriandre
+
+Bon appétit !
