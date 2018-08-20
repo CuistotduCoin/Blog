@@ -24,3 +24,21 @@ pistaches natures
 Amandes
 
 6 cl de lait
+
+
+
+## La préparation du Lassi
+
+
+
+ 
+
+
+
+Tremper le safran pour qu’il rende de la couleur. Ecraser la cardamone. Couper les pistaches en petits morceaux.
+
+Mixer le tout, sauf le lait avec un mixeur ou au fouet. Une fois que le sucre est bien mélangé, mixer avec le lait.
+
+C’est prêt ! Le mettre au frigo car ça se boit glacé.
+
+Une fois que c’est bien frais, servir et décorer avec les amandes. Très bon !
