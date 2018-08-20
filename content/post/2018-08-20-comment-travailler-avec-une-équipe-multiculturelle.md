@@ -55,4 +55,4 @@ Et quoi de mieux que la nourriture pour découvrir un pays ? Réaliser un atelie
 
 C’est ce que Cuistot du Coin vous propose ! Spécialiste dans les ateliers de cuisine du monde, nous avons près d’une vingtaine de Cuistots aux horizons différents : Brésil, Chine, Japon, Inde, Suriname …
 
-Si vous souhaitez vous aussi réaliser un atelier de cuisine pour vos équipes multiculturelles, n’hésitez pas à visiter notre site internet ou à nous contacter par email ou par téléphone au :  06.79.59.88.48.
+Si vous souhaitez vous aussi réaliser un atelier de cuisine pour vos équipes multiculturelles, n’hésitez pas à regarder [nos ateliers de cuisine pour professionnels ](https://www.cuistotducoin.com/business)ou à nous contacter par email ou par téléphone au :  06.79.59.88.48.
