@@ -29,16 +29,10 @@ Amandes
 
 ## La préparation du Lassi
 
-
-
- 
-
-
-
-Tremper le safran pour qu’il rende de la couleur. Ecraser la cardamone. Couper les pistaches en petits morceaux.
-
-Mixer le tout, sauf le lait avec un mixeur ou au fouet. Une fois que le sucre est bien mélangé, mixer avec le lait.
-
-C’est prêt ! Le mettre au frigo car ça se boit glacé.
-
-Une fois que c’est bien frais, servir et décorer avec les amandes. Très bon !
+1. Si vous choisissez de mettre du safran dans votre préparation alors trempez le pour qu’il rende de la couleur
+2. Écrasez la cardamone
+3. Couper les pistaches en petits morceaux
+4. Mixez le safran, cardamone, pistache et le sucre avec le yaourt
+5. Une fois que le sucre est bien mélangé, mixez avec le lait
+6. Laissez la préparation au frigo pour plus de fraîcheur
+7. Avant de le servir vous pouvez également mettre de l'amande pilée en décoration
