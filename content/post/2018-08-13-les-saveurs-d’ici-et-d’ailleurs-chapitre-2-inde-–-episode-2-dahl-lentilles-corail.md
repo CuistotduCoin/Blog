@@ -13,7 +13,7 @@ date: '2018-08-13T12:18:49+02:00'
 ---
 ## Les ingrédients pour les lentilles corail (4/5 personnes)
 
-300g de lentilles corail
+300g de lentilles corail 
 
 1 oignon
 
@@ -29,8 +29,6 @@ date: '2018-08-13T12:18:49+02:00'
 1 cuillère à café de coriandre 
 
 2 cuillères à soupe d’huile d’olive
-
-
 
 ## La préparation du Dahl
 
