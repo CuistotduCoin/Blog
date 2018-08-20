@@ -1,5 +1,5 @@
 ---
-title: 'Test : Quel univers culinaire est fait pour vous ?'
+title: 'Test : Quel univers culinaire est fait pour vous ? '
 description: >-
   “Dis-moi ce que tu manges, je te dirais qui tu es !” Vous souhaitez savoir
   quel univers culinaire est fait pour vous ? Facile ! Faites ce petit test et
