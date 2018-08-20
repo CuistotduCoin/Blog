@@ -13,9 +13,7 @@ L’entreprise réunit des personnes de tout horizon dont les parcours, les mili
 
 Dans cet article, il y aura de la théorie mais aussi des exemples et surtout des solutions pour pallier les différences culturelles.
 
-
-
-Le management interculturel
+## Le management interculturel
 
 Peut-être vous est-il déjà arrivé ou vous arrivera t’il de travailler avec un pays autre que la France. Que ce soit pour exporter vos produits, importer des produits, signer des partenariats ou pour travailler avec une filiale … Pour certaines entreprises, travailler à l’étranger est de l’ordre du quotidien mais pour des start-ups ou la majorité des entreprises, ce n’est pas le cas !  
 
@@ -23,51 +21,27 @@ Lorsque vous interagissez avec d’autres cultures au quotidien, il faut mettre 
 
 Si vous travaillez tous les jours avec des filiales, il vous faudra avoir une excellente connaissance de la culture managériale de l’autre pays.
 
-
-
-Les dimensions culturelles de Hofstede
+## Les dimensions culturelles de Hofstede
 
 Geert Hofstede a mené une étude au sein des filiales internationales d’IBM. Cette étude lui a permis de trouver 6 dimensions pour comprendre les styles de management de chaque pays. Voici donc les 6 dimensions :
 
-\- La distance hiérarchique : Il s’agit du degré d’inégalité en matière de pouvoir et d’autorité d’un membre de l’entreprise face à son supérieur hiérarchique.
+* **La distance hiérarchique** : Il s’agit du degré d’inégalité en matière de pouvoir et d’autorité d’un membre de l’entreprise face à son supérieur hiérarchique.
+* **L’individualisme ou le collectivisme** : Les individus du groupe font-ils le travail pour eux ou dans l’intérêt du groupe.
+* **La masculinité ou la féminité** : Dans une approche masculine, les rapports de force et la compétitivité primeront sur l’harmonie et le consensus. Et inversement. 
+* **Le contrôle de l’incertitude** : Cette dimension mesure la façon dont une société gère les situations inconnues, les événements inattendus et l’anxiété face au changement.
+* **Orientation à long terme contre orientation à court terme** : Cette dimension décrit l’horizon temporel d’une société. Elle peut avoir des objectifs dans le présent ou des objectifs sur le long terme.
 
-\- L’individualisme ou le collectivisme : Les individus du groupe font-ils le travail pour eux ou dans l’intérêt du groupe.
-
-\- La masculinité ou la féminité : Dans une approche masculine, les rapports de force et la compétitivité primeront sur l’harmonie et le consensus. Et inversement. 
-
-\- Le contrôle de l’incertitude : Cette dimension mesure la façon dont une société gère les situations inconnues, les évènements inattendus et l’anxiété face au changement.
-
-\- Orientation à long terme contre orientation à court terme : Cette dimension décrit l’horizon temporel d’une société. Elle peut avoir des objectifs dans le présent ou des objectifs sur le long terme.
-
-
-
-Un exemple de différences culturelles dans le management
+## Un exemple de différences culturelles dans le management
 
 Pour la France, il peut être compliqué de travailler avec des collaborateurs Asiatiques car les dimensions sont totalement différentes. Prenons l’exemple de la Chine : 
 
-\-	La distance hiérarchique : Dans les deux pays, elle est élevée, ce qui signifie que les membres acceptent l’ordre hiérarchique établi et leur place au sein de cette hiérarchie sans remettre celle-ci en question. Ici, pas de différence importante. 
+* **La distance hiérarchique** : Dans les deux pays, elle est élevée, ce qui signifie que les membres acceptent l’ordre hiérarchique établi et leur place au sein de cette hiérarchie sans remettre celle-ci en question. Ici, pas de différence importante. 
+* **L’individualisme ou le collectivisme** : En France, nous sommes une société individualiste a contrario de la Chine qui est un pays qui prône le collectivisme. Ici, un problème de management est déjà soulevé. 
+* **La masculinité ou la féminité** : Alors que la France est plutôt une société féminine qui utilise des consensus, la Chine quant à elle est plutôt masculine et est conduite par la compétition.
+* **Le contrôle de l’incertitude** : En France, nous n’aimons pas les surprises, c’est pourquoi nous essayons à tout prix de tout savoir, programmer afin de mieux contrôler et de savoir comment réagir lors d’un imprévu. Tandis que pour la Chine, les surprises ne leur font pas peur, pas besoin de tout contrôler pour eux.
+* **Orientation à long terme contre orientation à court terme** : Sur ce point-là, la France et la Chine se rejoignent. Bien que la Chine ait un score plus élevé pour l’orientation long terme, la France aussi réfléchi sur le long terme. Ici, pas de problème pour le travail ensemble.
 
-
-
-\-	L’individualisme ou le collectivisme : En France, nous sommes une société individualiste a contrario de la Chine qui est un pays qui prône le collectivisme. Ici, un problème de management est déjà soulevé. 
-
-
-
-\-	La masculinité ou la féminité : Alors que la France est plutôt une société féminine qui utilise des consensus, la Chine quant à elle est plutôt masculine et est conduite par la compétition.
-
-
-
-\-	Le contrôle de l’incertitude : En France, nous n’aimons pas les surprises, c’est pourquoi nous essayons à tout prix de tout savoir, programmer afin de mieux contrôler et de savoir comment réagir lors d’un imprévu. Tandis que pour la Chine, les surprises ne leur font pas peur, pas besoin de tout contrôler pour eux.
-
-
-
-\-	 Orientation à long terme contre orientation à court terme : Sur ce point-là, la France et la Chine se rejoignent. Bien que la Chine ait un score plus élevé pour l’orientation long terme, la France aussi réfléchi sur le long terme. Ici, pas de problème pour le travail ensemble.
-
-
-
-Les solutions pour travailler avec un pays étranger
-
-
+## Les solutions pour travailler avec un pays étranger
 
 Afin d’arriver à travailler ensemble, les collaborateurs de chaque pays doivent être mis au courant des différences culturelles de l’autre pays. Dans un premier temps pour comprendre la façon de travailler de ses collaborateurs mais également avoir du recul sur sa façon de travailler. 
 
