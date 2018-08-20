@@ -5,6 +5,7 @@ description: >-
   traditions, aux recettes de cuisine, etc. Elles sont également présentes dans
   le milieu professionnel. Ce qui peut être une problématique pour toutes
   entreprises qui souhaitent travailler avec des correspondants étrangers.
+image: /images/équipe-multiculturelle.jpg
 categories:
   - Entreprises
 date: '2018-08-20T13:23:52+02:00'
