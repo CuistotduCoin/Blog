@@ -9,7 +9,7 @@ categories:
   - Recettes
 date: '2018-08-20T10:40:18+02:00'
 ---
-## Les ingrédients pour le Lassi (2/3 verres)
+## Les ingrédients pour le Lassi à la pistache (2/3 verres)
 
 2 yaourts natures
 
@@ -17,10 +17,10 @@ date: '2018-08-20T10:40:18+02:00'
 
 2 cardamomes
 
-du safran (optionnel)
+(safran, si vous le souhaitez)
 
-quelques pistaches natures
+pistaches natures
 
-des amandes pilées pour la décoration
+Amandes
 
 6 cl de lait
