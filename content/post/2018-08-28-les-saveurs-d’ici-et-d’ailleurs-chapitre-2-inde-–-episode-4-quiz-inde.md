@@ -4,6 +4,7 @@ description: >-
   Ce mois-ci, Cuistot du Coin vous propose de découvrir ou de redécouvrir des
   spécialités culinaires indienne. Cette semaine changement de programme ! Au
   lieu d’une recette, nous vous proposons d’effectuer un quiz sur l'Inde.
+image: /images/quiz-inde.png
 categories:
   - Recettes
 date: '2018-08-28T10:11:51+02:00'
