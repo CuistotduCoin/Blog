@@ -6,6 +6,7 @@ description: >-
   Ce mois-ci, Cuistot du Coin vous propose de découvrir ou de redécouvrir des
   spécialités culinaires brésiliennes. Cette semaine, on vous présente une
   recette à base de poisson : le Pirao de Peixe.
+image: /images/oi000003.jpg
 categories:
   - Recettes
 date: '2018-08-30T12:00:01+02:00'
