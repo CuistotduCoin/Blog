@@ -13,8 +13,6 @@ date: '2018-09-18T09:30:22+02:00'
 ---
 Cette recette a été inventée au Brésil par les mères et grands-mères lors de journées pluvieuses pour occuper les enfants à la maison. Elle est par la suite devenue très populaire !
 
-
-
 **Ingrédients :**
 
 2 œufs
@@ -34,8 +32,6 @@ huile de friture
 sucre
 
 cannelle
-
-
 
 **Préparation : **
 
