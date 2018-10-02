@@ -36,12 +36,12 @@ Du sel
 
 2.	Dans le bol, rassemblez le bouillon de volaille et les piments que vous aurez préalablement égouttés. Mixez avec un blender jusqu'à l'obtention d'une sauce parfaitement lisse.
 
-3.	Faîtes chauffer un large filet d'huile dans une sauteuse et versez-y les vermicelles. Faîtes-les dorer pendant quelques minutes, en les retournant de temps en temps. Attention à ne pas les faire brûler. 
+3.	Faites chauffer un large filet d'huile dans une sauteuse et versez-y les vermicelles. Faites-les dorer pendant quelques minutes, en les retournant de temps en temps. Attention à ne pas les faire brûler. 
 
 4.	Placez les vermicelles sur du papier absorbant et essuyez l'intérieur de la sauteuse pour retirer l'excès d'huile. 
 
 5.	Remettez les vermicelles dans la sauteuse, sur feu moyen, puis versez la sauce aux piments. Poursuivez la cuisson sur feu doux et à couvert, jusqu'à totale absorption du liquide. 
 
-6.	Servez les vermicelles bien chauds, avec des lamelles ou des dès d'avocat, et du fromage frais émietté.
+6.	Servez les vermicelles bien chauds, avec des lamelles d'avocat, et du fromage frais émietté.
 
 7.	Bon appétit !
