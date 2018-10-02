@@ -6,7 +6,7 @@ description: >-
   Une recette toute simple, très ludique et délicieuse. Adoptée par les petits
   et les grands, cette recette est la garantie de beaucoup de douceur et de
   gourmandise, avec une touche d'originalité !
-image: /images/maxresdefault.jpg
+image: /images/receita-de-bolinho-de-chuva-simples-1-.jpg
 categories:
   - Recettes
 date: '2018-09-18T09:30:22+02:00'
