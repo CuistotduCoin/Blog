@@ -7,6 +7,7 @@ description: >-
   d’entreprise au bout de quelques années voire même quelques mois d’exercice.
   Pour avoir une idée, en 2015 le taux de turnover dans les entreprises était en
   moyenne de 13,7% alors qu’en 2018 le taux est de 15,1%.
+image: /images/rawpixel-659502-unsplash.jpg
 categories:
   - Entreprises
 date: '2018-10-04T17:03:55+02:00'
