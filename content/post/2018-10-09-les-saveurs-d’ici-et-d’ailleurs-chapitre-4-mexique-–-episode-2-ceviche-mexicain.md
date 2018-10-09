@@ -7,6 +7,7 @@ description: >-
   donne une recette de ceviche Mexicain. En effet, le ceviche est originaire du
   Pérou mais de nombreux pays latino-américains ont revisité ce plat pour en
   faire des mets typiques de leur gastronomie.
+image: /images/silvia-trigo-770111-unsplash.jpg
 categories:
   - Recettes
 date: '2018-10-09T11:18:58+02:00'
