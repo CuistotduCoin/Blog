@@ -33,7 +33,7 @@ Bref, mon point est que l’apéro est essentiel dans la vie. Je ne parle pas qu
 
 **Règle n°3** : Préparer des sujets de conversation. Même si vos collègues sont vos amis, faites attention à ne pas trop parler de boulot. Ce temps de pause est organisé pour que vous puissiez vous amuser et vous détendre. 
 
-**Règle n°4** : Néanmoins, faites attention à vous ! Prévoyez un stratagème avec un complice pour vous échapper des griffes de Gertrude, 80 ans, quand elle viendra pour vous parler de ses chats et des pulls qu’elle leurs tricottent à Noël !
+**Règle n°4** : Néanmoins, faites attention à vous ! Prévoyez un stratagème avec un complice pour vous échapper des griffes de Gertrude, 80 ans, quand elle viendra pour vous parler de ses chats et des pulls qu’elle leurs tricotent à Noël !
 
 **Règle n°5** : Faire appel à Cuistot du Coin pour organiser son apéro au bureau ! 
 
@@ -47,4 +47,4 @@ Bref, mon point est que l’apéro est essentiel dans la vie. Je ne parle pas qu
 
 \- **Le prix** : Moins cher qu’un professionnel classique, nous assurons un buffet de qualité pour un prix raisonnable. Et qui dit moins cher, dit plus de budget pour pleins d’autres apéros 😉 
 
-Pour recevoir nos tarifs, envoyer-nous un email à contact@cuistotducoin.com. Si vous souhaitez plus d’informations sur nos services de buffet à Brest visiter notre page pour les professionnels.
+Pour recevoir nos tarifs, envoyer-nous un email à contact@cuistotducoin.com. Si vous souhaitez plus d’informations sur nos [services de buffet à Brest](https://www.cuistotducoin.com/business) visiter notre page pour les professionnels.
