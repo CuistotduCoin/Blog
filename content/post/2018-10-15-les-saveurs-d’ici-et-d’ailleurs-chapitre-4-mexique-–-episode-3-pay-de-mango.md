@@ -11,17 +11,7 @@ categories:
   - Recettes
 date: '2018-10-15T12:39:48+02:00'
 ---
-
-
-
-
-
-
-
-
-Ingrédients pour le pay de mango 
-
-
+## Ingrédients pour le pay de mango 
 
 150g de farine
 
@@ -29,34 +19,22 @@ Ingrédients pour le pay de mango
 
 90g de beurre
 
-1 kilo de mangues
+1 kilo de mangue
 
 1 cuillère à soupe bombée de maïzena 
 
 Du sel
 
-Du sucre glace
 
 
+## Préparation pour le pay de mango
 
-Préparation pour le pay de mango
-
-
-
-Préchauffez le four à 180°. 
-
-Mélangez la farine, 60g de sucre, le sel et le beurre froid coupé en petits morceaux. Vous devez obtenir une pâte granuleuse, de la consistance d'une pâte à crumble. 
-
-Déposez la pâte dans le fond d'un petit moule, puis étalez-la en la pressant avec le dos d'une cuillère. Faites cuire à blanc une dizaine de minutes.
-
-
-
-Epluchez les mangues, et détaillez-les en tranches fines. Ajoutez le reste du sucre et la cuillère de maïzena. Mélangez.
-
-
+1. Préchauffez le four à 180°
+2. Mélangez la farine, 60g de sucre, une pincée de sel et le beurre (coupé en petits morceaux). Si vous avez une texture qui ressemble à celle du crumble alors votre pâte est réussi.
+3. Déposez la pâte dans le fond d'un petit moule, puis étalez-la en la pressant avec le dos d'une cuillère. Faites cuire une dizaine de minutes.
+4. Ajoutez le reste du sucre et la cuillère de maïzena. Mélangez.
+5. Épluchez les mangues, et coupez-les en tranches fines. 
 
 Répartissez les tranches de mangues sur la pâte sablée et poursuivez la cuisson pendant 30mn.
-
-
 
 Laissez refroidir. Servez recouvert de sucre glace.
