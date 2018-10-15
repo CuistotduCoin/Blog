@@ -32,9 +32,8 @@ Du sel
 1. Préchauffez le four à 180°
 2. Mélangez la farine, 60g de sucre, une pincée de sel et le beurre (coupé en petits morceaux). Si vous avez une texture qui ressemble à celle du crumble alors votre pâte est réussi.
 3. Déposez la pâte dans le fond d'un petit moule, puis étalez-la en la pressant avec le dos d'une cuillère. Faites cuire une dizaine de minutes.
-4. Ajoutez le reste du sucre et la cuillère de maïzena. Mélangez.
-5. Épluchez les mangues, et coupez-les en tranches fines. 
-
-Répartissez les tranches de mangues sur la pâte sablée et poursuivez la cuisson pendant 30mn.
-
-Laissez refroidir. Servez recouvert de sucre glace.
+4. Épluchez les mangues, et coupez-les en tranches fines. 
+5. Ajoutez le reste du sucre et la cuillère de maïzena. Mélangez.
+6. Disposez les tranches de mangues sur la pâte comme vous le souhaitez.
+7. Mettez le gâteau au four pendant 30 minutes.
+8. Bon appétit.
