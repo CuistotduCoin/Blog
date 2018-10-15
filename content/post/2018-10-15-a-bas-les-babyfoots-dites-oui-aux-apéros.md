@@ -5,6 +5,7 @@ description: >-
   la cohésion d’équipe, etc. Si votre chief happiness souhaite vous acheter un
   babyfoot, dites non ! Il y a bien mieux dans la vie qu’un babyfoot pour rendre
   tous les salariés heureux au travail ! 
+image: /images/img_6950.jpg
 categories:
   - Entreprises
 date: '2018-10-15T15:23:34+02:00'
