@@ -6,6 +6,7 @@ description: >-
   Ce mois-ci, Cuistot du Coin met à l’honneur le Mexique ! Aujourd’hui, on vous
   donne une recette d’un gâteau à la mangue. Ce dessert se prénomme pay de
   mango. 
+image: /images/pay-helado-de-mango-receta-sin-horno.jpg
 categories:
   - Recettes
 date: '2018-10-15T12:39:48+02:00'
