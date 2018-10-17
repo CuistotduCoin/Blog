@@ -1,8 +1,8 @@
 ---
 title: Quel mangeur êtes-vous au travail ?
 description: >-
-  Au bureau, se mêle différents types de... mangeurs ! Et vous de quel côté est
-  vous ? Plutôt Serial Cuistot, Serial Mangeur ou encore le Gourmand ?
+  Au bureau, se mêlent différents types de... mangeurs ! Et vous de quel côté
+  êtes vous ? Plutôt Serial Cuistot, Serial Mangeur ou encore le Gourmand ?
 image: /images/sans-titre.png
 categories:
   - Entreprises
