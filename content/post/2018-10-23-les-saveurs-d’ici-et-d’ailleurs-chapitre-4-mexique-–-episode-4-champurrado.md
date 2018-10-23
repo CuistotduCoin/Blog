@@ -4,6 +4,7 @@ description: >-
   Ce mois-ci, Cuistot du Coin met à l’honneur le Mexique ! Aujourd’hui, on vous
   donne la recette d’une boisson à base de chocolat : le Champurrado. Cette
   boisson est typique au Mexique et idéal avec des temps d'automne ou d'hiver.
+image: /images/champurrado.jpg
 categories:
   - Recettes
 date: '2018-10-23T15:15:59+02:00'
