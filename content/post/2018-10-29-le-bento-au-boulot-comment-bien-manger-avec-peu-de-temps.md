@@ -24,7 +24,7 @@ Autre changement, le bento était traditionnellement préparé à la maison afin
 
 ## Pourquoi prendre un bento plutôt qu’un tupperware ?
 
-**\- La praticité **: Petit et pratique, il est possible d’emmener partout avec soi son bento. Si vous avez déjà regardé un bento de plus près, vous avez alors vu qu’il est possible de mettre une entrée, son plat et son dessert, ainsi que sa sauce à l’intérieur de cette petite boîte.
+**\- La praticité** : Petit et pratique, il est possible d’emmener partout avec soi son bento. Si vous avez déjà regardé un bento de plus près, vous avez alors vu qu’il est possible de mettre une entrée, son plat et son dessert, ainsi que sa sauce à l’intérieur de cette petite boîte.
 
 **\- La santé** : Grâce à ses petits compartiments, il permet de contrôler soi-même la quantité et la qualité des aliments pour un repas équilibré. En général les bentos sont compartimentés ainsi :  40 % de féculent, 30 % de protéines, 20 % de légumes et 10 % de fruits.
 
