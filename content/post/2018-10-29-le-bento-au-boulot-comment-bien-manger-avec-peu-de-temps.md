@@ -7,6 +7,7 @@ description: >-
   repas du midi sur le lieu du travail et même si vous le savez, nous sommes
   persuadés que cet article vous apprendra quelques petites choses sur les
   bentos.
+image: /images/bento.jpg
 categories:
   - Entreprises
 date: '2018-10-29T14:40:07+01:00'
