@@ -6,6 +6,7 @@ description: >-
   Ce mois-ci, Cuistot du Coin met à l’honneur la Chine ! Et la première recette
   dont nous allons parler est celle du « Sheng jian bao ». Il s’agit d’un petit
   pain fourré ici au bœuf et cuit à la vapeur. 
+image: /images/d1c365f8c4e8c13dda559a1c4d2bf329.jpg
 categories:
   - Recettes
 date: '2018-11-06T15:40:39+01:00'
