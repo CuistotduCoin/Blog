@@ -10,11 +10,9 @@ categories:
   - Recettes
 date: '2018-11-06T15:40:39+01:00'
 ---
-Les ingrédients pour le sheng jian bao (environ 10 petits pains)
+## Les ingrédients pour le sheng jian bao (11 petits pains)
 
-
-
-Pour la farce
+**Pour la farce**
 
 260 g de boeuf haché (30% de matière grasse minimum conseillé)
 
@@ -32,10 +30,6 @@ Un mélange 5 épices
 
 Du sel
 
-
-
-
-
 Pour la pâte
 
 150 g de farine 
@@ -46,15 +40,7 @@ Pour la pâte
 
 1 c. à café de sucre en poudre
 
-
-
-
-
-
-
 Préparation des sheng jian bao
-
-
 
 Pour la pâte
 
@@ -62,17 +48,11 @@ Diluez la levure boulanger avec 60 ml d'eau tiède, laissez la levure agir penda
 
 Mélangez la farine et le sucre avec la levure diluée et le reste d'eau tiède petit à petit, pétrissez et formez une boule lisse et homogène. Mettez la boule dans un grand saladier ou une bassine, couvrez de film ou d'un torchon humide. Laissez la pâte lever pendant 1-1.5 h, il vaut mieux que ça soit un endroit chaud (25-30°c).
 
-
-
-
-
 Pour la farce
 
 Hachez le gingembre et les ciboules.
 
 Mélangez tous les autres ingrédients avec la viande, touillez toujours dans le même sens pour donner la texture à la farce.
-
-
 
 Pour le pliage
 
@@ -85,8 +65,6 @@ Etalez chaque galette en disque rond et un peu épais à l'aide d'un rouleau.
 Mettez une belle c. à soupe de farce au centre de la pâte, pliez le bao.
 
 Laissez les baos pliés pendant 30 à 45 minutes à température ambiante.
-
-
 
 Pour la cuisson
 
