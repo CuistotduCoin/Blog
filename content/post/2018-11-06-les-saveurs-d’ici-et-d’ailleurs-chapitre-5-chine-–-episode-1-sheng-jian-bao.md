@@ -60,7 +60,7 @@ Du sel
 1. Formez la pâte en boudin et divisez-la en 11 morceaux équivalents.
 2. Abaissez chaque morceau en petite galette.
 3. Étalez chaque galette en disque rond et un peu épais à l'aide d'un rouleau.
-4. Mettez une belle c. à soupe de farce au centre de la pâte, pliez le bao (pour plier correctement le bao, vous pouvez trouver des vidéo sur Youtube).
+4. Mettez une belle c. à soupe de farce au centre de la pâte, pliez le bao (pour plier correctement le bao, vous pouvez trouver des vidéos sur Youtube).
 5. Laissez les baos pliés pendant 30 à 45 minutes à température ambiante.
 
 **Pour la cuisson**
