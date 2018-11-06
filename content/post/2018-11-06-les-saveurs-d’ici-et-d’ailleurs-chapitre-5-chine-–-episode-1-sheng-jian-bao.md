@@ -45,27 +45,25 @@ Du sel
 **Pour la pâte**
 
 1. Diluez la levure avec 60 ml d'eau tiède. Laissez la levure agir pendant 10 min.
-2. Mettre la farine et le sucre dans un saladier. Puis verser petit à petit la levure diluée et le reste d'eau tiède. Pétrissez et formez une boule lisse et homogène. Mettez la boule dans un grand saladier ou une bassine, couvrez de film ou d'un torchon humide. Laissez la pâte lever pendant 1-1.5 h, il vaut mieux que ça soit un endroit chaud (25-30°c).
+2. Mettez la farine et le sucre dans un saladier. Puis verser petit à petit la levure diluée et le reste d'eau tiède. Pétrissez et formez une boule lisse et homogène. (Il vous faudra quelques minutes pour obtenir une boule lisse)
+3. Couvrez la saladier avec un torchon humide. Laissez la pâte lever pendant 1-1.5 h. (De préférence laissez la pâtes dans un endroit chaud : 25-30°c).
 
-Pour la farce
 
-Hachez le gingembre et les ciboules.
 
-Mélangez tous les autres ingrédients avec la viande, touillez toujours dans le même sens pour donner la texture à la farce.
+**Pour la farce**
 
-Pour le pliage
+1. Hachez le gingembre et les ciboules.
+2. Mélangez tous les autres ingrédients avec la viande, touillez toujours dans le même sens pour donner la texture à la farce.
 
-Formez la pâte en boudin et divisez-la en 11 morceaux équivalents.
+**Pour le pliage**
 
-Abaissez chaque morceau en petite galette.
+1. Formez la pâte en boudin et divisez-la en 11 morceaux équivalents.
+2. Abaissez chaque morceau en petite galette.
+3. Étalez chaque galette en disque rond et un peu épais à l'aide d'un rouleau.
+4. Mettez une belle c. à soupe de farce au centre de la pâte, pliez le bao (pour plier correctement le bao, vous pouvez trouver des vidéo sur Youtube).
+5. Laissez les baos pliés pendant 30 à 45 minutes à température ambiante.
 
-Etalez chaque galette en disque rond et un peu épais à l'aide d'un rouleau.
-
-Mettez une belle c. à soupe de farce au centre de la pâte, pliez le bao.
-
-Laissez les baos pliés pendant 30 à 45 minutes à température ambiante.
-
-Pour la cuisson
+**Pour la cuisson**
 
 Dans une poêle à fond épais, chauffez 2 c. à soupe d'huile végétale à feu moyen, rangez les baos côte à côte dans la poêle, laissez-les dorer pendant 3 à 4 minutes.
 
