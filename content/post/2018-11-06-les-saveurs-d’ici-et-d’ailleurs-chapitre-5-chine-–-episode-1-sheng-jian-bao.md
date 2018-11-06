@@ -65,8 +65,6 @@ Du sel
 
 **Pour la cuisson**
 
-Dans une poêle à fond épais, chauffez 2 c. à soupe d'huile végétale à feu moyen, rangez les baos côte à côte dans la poêle, laissez-les dorer pendant 3 à 4 minutes.
-
-Quand ils sont bien dorés, versez un demie verre d'eau et mettez immédiatement un couvercle sur la poêle, poursuivez la cuisson pendant 6 à 7 minutes à feu moyen-doux.
-
-Dégustez avec un peu de vinaigre de riz noir, j'aime beaucoup personnellement.
+1. Dans une poêle à fond épais, chauffez 2 c. à soupe d'huile végétale à feu moyen, rangez les baos côte à côte dans la poêle, laissez-les dorer pendant 3 à 4 minutes.
+2. Quand ils sont bien dorés, versez un demi verre d'eau et mettez immédiatement un couvercle sur la poêle, poursuivez la cuisson pendant 6 à 7 minutes à feu moyen-doux.
+3. A déguster sans sauce ou avec sauce selon votre envie. Vous pouvez les tremper dans du vinaigre par exemple.
