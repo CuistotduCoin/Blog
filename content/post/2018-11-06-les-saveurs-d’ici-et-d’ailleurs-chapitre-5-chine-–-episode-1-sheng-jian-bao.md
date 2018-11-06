@@ -30,7 +30,7 @@ Un mélange 5 épices
 
 Du sel
 
-Pour la pâte
+**Pour la pâte**
 
 150 g de farine 
 
@@ -40,9 +40,9 @@ Pour la pâte
 
 1 c. à café de sucre en poudre
 
-Préparation des sheng jian bao
+## Préparation des sheng jian bao
 
-Pour la pâte
+**Pour la pâte**
 
 Diluez la levure boulanger avec 60 ml d'eau tiède, laissez la levure agir pendant 10 mins.
 
