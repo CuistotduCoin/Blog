@@ -44,9 +44,8 @@ Du sel
 
 **Pour la pâte**
 
-Diluez la levure boulanger avec 60 ml d'eau tiède, laissez la levure agir pendant 10 mins.
-
-Mélangez la farine et le sucre avec la levure diluée et le reste d'eau tiède petit à petit, pétrissez et formez une boule lisse et homogène. Mettez la boule dans un grand saladier ou une bassine, couvrez de film ou d'un torchon humide. Laissez la pâte lever pendant 1-1.5 h, il vaut mieux que ça soit un endroit chaud (25-30°c).
+1. Diluez la levure avec 60 ml d'eau tiède. Laissez la levure agir pendant 10 min.
+2. Mettre la farine et le sucre dans un saladier. Puis verser petit à petit la levure diluée et le reste d'eau tiède. Pétrissez et formez une boule lisse et homogène. Mettez la boule dans un grand saladier ou une bassine, couvrez de film ou d'un torchon humide. Laissez la pâte lever pendant 1-1.5 h, il vaut mieux que ça soit un endroit chaud (25-30°c).
 
 Pour la farce
 
