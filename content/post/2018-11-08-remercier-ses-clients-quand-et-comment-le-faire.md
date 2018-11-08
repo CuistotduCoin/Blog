@@ -6,6 +6,7 @@ description: >-
   l’on en a 3 ou bien des centaines ! Mais les clients (tout comme les employés)
   font en sorte que votre entreprise soit pérenne, il ne faut donc pas les
   négliger.
+image: /images/rawpixel-579251-unsplash.jpg
 categories:
   - Entreprises
 date: '2018-11-08T16:06:30+01:00'
