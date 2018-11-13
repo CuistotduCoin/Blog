@@ -40,18 +40,10 @@ date: '2018-11-13T10:54:59+01:00'
 2. Épluchez les oignons et l'ail. Hachez les finement puis piler l'ensemble jusqu'à l'obtention d'une pâte.
 3. Ajouter ensuite dans cette pâte : le carmin, la sauce de soja, le miel, le vinaigre, la maïzena et 1 pincée de sel. Bien mélanger le tout afin d'obtenir une pâte homogène. 
 4. À l'aide d'une fourchette, piquer la peau et la chair du canard pour que la marinade puisse être absorbée facilement.
-5. À l'aide d'un pinceau de cuisine, badigeonner l'ensemble du canard, l'extérieur et l'intérieur, avec la pâte de marinade. (Vous verrez, il vous restera de la pâte,ce qui vous restera doit être conservée car ellle servira au moment de la cuisson. Couvrir le canard avec un film plastique et le laisser reposer au frigo pendant minimum 6 heures.
-
-Préchauffer votre four au thermostat 5 pendant 5 minutes.
-
-Huiler un plat puis déposer le canard dessus.
-
-Le mettre au four pendant 1 heure 30 ou 1 heure 40 minutes.
-
-Pendant la cuisson, tourner le canard afin de le cuire uniformément. Lorsque la première heure de cuisson est écoulée, badigeonner le canard avec le reste de la sauce toutes les 10 minutes.
-
-À la fin de la cuisson, sortir le canard. Vérifier que l'intérieur est bien cuit.
-
-Découper le canard en tranches et le servir avec du riz nature et des légumes.
-
-La chair de canard se marie bien avec un peu de sauce de soja.
+5. À l'aide d'un pinceau de cuisine, badigeonner l'ensemble du canard, l'extérieur et l'intérieur, avec la pâte de marinade. (Vous verrez, il vous restera de la pâte,ce qui vous restera doit être conservée car elle servira après).
+6. Couvrir le canard avec un film plastique et le laisser reposer au frigo pendant minimum 6 heures.
+7. Une fois le repos fini, préchauffez votre four au thermostat 5 pendant 5 minutes.
+8. Huiler un plat puis déposer le canard dessus. Le mettre au four pendant 1 heure 30.
+9. Pendant la cuisson, tourner le canard afin de le cuire uniformément. Lorsque la première heure de cuisson est écoulée, badigeonner le canard avec le reste de la marinade toutes les 10 minutes.
+10. À la fin de la cuisson, sortir le canard. Vérifiez que l'intérieur est bien cuit. 
+11. Dégustez !
