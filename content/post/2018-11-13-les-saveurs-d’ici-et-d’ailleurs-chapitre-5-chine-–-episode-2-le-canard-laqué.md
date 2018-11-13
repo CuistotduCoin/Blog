@@ -6,6 +6,7 @@ description: >-
   Ce mois-ci, Cuistot du Coin met à l’honneur la Chine ! Et la deuxième recette
   dont nous allons parler est celle du "Canard Laqué", une recette
   traditionnelle Chinoise. 
+image: /images/canard-laqué.jpg
 categories:
   - Recettes
 date: '2018-11-13T10:54:59+01:00'
