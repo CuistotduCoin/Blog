@@ -1,5 +1,5 @@
 ---
-title: 'C’est bientôt Noël, quels cadeaux choisir pour ses collaborateurs ?'
+title: 'C’est bientôt Noël, quels cadeaux choisir pour ses collaborateurs ? '
 description: >-
   Que vous soyez dans une TPE, PME ou grande entreprise il n’est pas rare que
   pendant la période de fin d’année on devienne plus généreux et que l’on offre
