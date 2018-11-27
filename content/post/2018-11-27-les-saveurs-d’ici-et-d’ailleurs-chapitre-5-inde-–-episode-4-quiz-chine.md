@@ -4,6 +4,7 @@ description: >-
   Ce mois-ci, Cuistot du Coin vous propose de découvrir ou de redécouvrir des
   spécialités culinaires chinoises. Cette semaine changement de programme ! Au
   lieu d’une recette, nous vous proposons d’effectuer un quiz sur la Chine.
+image: /images/quiz-japon.png
 categories:
   - Recettes
 date: '2018-11-27T16:59:30+01:00'
