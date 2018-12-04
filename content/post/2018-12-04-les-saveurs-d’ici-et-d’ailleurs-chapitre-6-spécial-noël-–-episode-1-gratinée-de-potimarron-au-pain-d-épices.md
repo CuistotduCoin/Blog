@@ -33,4 +33,4 @@ Poivre et Sel
 2. Faites cuire vos morceaux pendant 20 minutes dans le bouillon (ajouter à votre convenance le sel et le poivre).
 3. A l'aide d'un mixeur (plongeant), mixez la préparation en y ajoutant la crème, le foie gras et un morceau de beurre.
 4. Une fois mixé et mis dans vos 6 contenants, émietté votre pain d'épices sur le dessus de votre velouté ainsi qu'un peu de beurre.
-5. Faites chauffer 4-5 minutes
+5. Faites chauffer 4-5 minutes au four.
