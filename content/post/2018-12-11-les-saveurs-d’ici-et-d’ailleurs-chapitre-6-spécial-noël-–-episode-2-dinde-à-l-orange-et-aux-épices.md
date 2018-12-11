@@ -10,4 +10,14 @@ categories:
   - Recettes
 date: '2018-12-11T14:46:35+01:00'
 ---
-f
+Ingrédients pour la dinde à l'orange et aux épices ( 8 personnes)
+
+1 dinde
+
+4 oranges
+
+4 louches de bouillon de volaille
+
+4 bâton de cannelle
+
+4 étoiles de badiane
