@@ -10,7 +10,7 @@ categories:
   - Recettes
 date: '2018-12-11T14:46:35+01:00'
 ---
-Ingrédients pour la dinde à l'orange et aux épices ( 8 personnes)
+## Ingrédients pour la dinde à l'orange et aux épices ( 8 personnes)
 
 1 dinde
 
@@ -20,4 +20,10 @@ Ingrédients pour la dinde à l'orange et aux épices ( 8 personnes)
 
 4 bâton de cannelle
 
-4 étoiles de badiane
+5 clous de girofle
+
+1 morceau de 2 cm de gingembre frais
+
+De l'huile
+
+Du poivre
