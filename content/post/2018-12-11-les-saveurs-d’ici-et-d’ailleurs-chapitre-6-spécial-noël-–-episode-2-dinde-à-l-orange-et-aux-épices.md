@@ -40,4 +40,5 @@ Du poivre et sel
 6. Assaisonnez votre dinde à votre convenance puis versez votre bouillon sur la dinde.
 7. Mettre au four (durée totale de 4h)
 8. Au bout des 30 premières minutes, baissez la température du four à 150°.
-9. Après encore 30 minutes, retournez la dinde et arrosez-là souvent avec son jus de cuisson.
+9. Après encore 30 minutes, retournez la dinde et arrosez là souvent avec son jus de cuisson.
+10. Après 4h de cuisson, c'est prêt ! Les 4h vous laisseront le temps de préparer l'accompagnement comme un écrasé de légume ou de pomme de terre par exemple.
