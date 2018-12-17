@@ -9,6 +9,7 @@ description: >-
   ce moment qu’on se réunit en famille, qu’on resserre les liens avec ses
   proches… Alors pourquoi ne pas faire la même chose avec vos collaborateurs
   pour la nouvelle année ? 
+image: /images/nordwood-themes-1092996-unsplash.jpg
 categories:
   - Entreprises
 date: '2018-12-17T15:48:40+01:00'
