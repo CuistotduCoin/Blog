@@ -7,6 +7,7 @@ description: >-
   thème de Noël et des fêtes de fin d’année. Aujourd’hui, on vous apprend à
   réaliser une recette simple et rapide à réaliser ! Il s'agit des zestes
   d'oranges confits.
+image: /images/img_2648-1024x683.jpg
 categories:
   - Recettes
 date: '2018-12-18T11:26:41+01:00'
