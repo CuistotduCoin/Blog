@@ -24,7 +24,7 @@ Du sucre cristallisé
 ## Préparation des zestes d'oranges confits
 
 1. Lavez les oranges sous l'eau chaude, brossez-les.
-2. Coupez les 2 extrémités de l'orange. Puis avec un couteau, coupez la peau en 8 morceaux (sans entamer la chair) et coupez le zeste en bâtonnet.
+2. Coupez les 2 extrémités de l'orange. Puis avec un couteau-scie, coupez la peau en 8 morceaux (sans entamer la chair) et coupez le zeste en bâtonnet.
 3. Faites chauffer le litre d'eau en y ajoutant le sucre. Introduisez les zestes et laissez frémir le tout pendant 40 minutes.
 4. Égouttez les zestes sur une grille pendant environ 1h.
 5. Enfin, roulez les zestes dans le sucre cristallisé.
