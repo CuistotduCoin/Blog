@@ -43,21 +43,8 @@ date: '2019-01-08T10:47:18+01:00'
   * Hachez finement l'ail, l'oignon, le persil et les pousses d'oignons nouveaux. Ajoutez tous à la pâte sans oublier une peu de piment.
 
   * Incorporez la morue, mélangez le tout et laisser reposer la pâte jusqu'au lendemain, elle sera ainsi plus légère.
-
-Le jour J...
-
-
-
- 
-
-
-
-Quelques minutes avant la réalisation des acras, ajouter la levure et rectifier l'assaisonnement si nécessaire.
-
-
-
-Faire chauffer l'huile dans une friteuse ou un wok (c'est encore plus pratique), déposer la pâte dans l'huile chaude à l'aide de deux petites cuillères. Lorsque les acras sont bien dorés, les déposer sur du papier absorbant.
-
-
-
-Servir sans trop attendre car les acras sont meilleurs chauds.
+* Jour J:
+  * Ajoutez la levure et rectifiez l'assaisonnement si nécessaire.
+  * Faites chauffer l'huile dans une friteuse ou un wok, déposer la pâte dans l'huile chaude à l'aide de deux petites cuillères. Lorsque les acras sont bien dorés, les déposer sur du papier absorbant.
+  * Servir sans trop attendre car les acras sont meilleurs chauds.
+  * Bon appétit !
