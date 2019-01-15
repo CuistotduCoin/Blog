@@ -6,7 +6,7 @@ description: >-
   En ce début d’année 2019, Vous avez choisi de découvrir ou de redécouvrir des
   recettes tout droit venues des Antilles ! Aujourd’hui, on vous partage une
   recette goûteuse et généreuse ! Il s’agit de la recette du poulet Colombo.
-image: /images/colombo-de-poulet.jpg
+image: /images/img_7437.jpg
 categories:
   - Recettes
 date: '2019-01-15T12:10:31+01:00'
