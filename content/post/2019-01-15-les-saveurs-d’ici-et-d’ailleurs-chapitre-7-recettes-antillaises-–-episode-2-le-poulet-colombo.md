@@ -11,7 +11,7 @@ categories:
   - Recettes
 date: '2019-01-15T12:10:31+01:00'
 ---
-## Ingrédients pour le poulet Colombo (4 personnes) 
+## Ingrédients pour le poulet Colombo (4 personnes)
 
 4 cuisses de poulet
 
@@ -35,13 +35,13 @@ Poivre noir en grains
 
 Sel
 
-## Préparation du poulet Colombo 
+## Préparation du poulet Colombo
 
 1. Émincez finement les oignons. Découpez les pommes de terre en morceaux. Hachez l’ail.
 2. Faites mariner le poulet dans un récipient avec 1 oignon émincé (conservez l’autre), 1 cuillère de colombo, les cuillères cinq épices, du sel, du poivre, le tout arrosé de jus de citron.
 3. Laissez mariner le poulet pendant 4 à 5 heures.
 4. Ensuite, versez un filet d’huile d’olive dans une poêle et faites-y dorer le poulet, puis réservez-le.
-5. Dans la poêle, faites dorer l’oignon restant et l’ail haché, avec les pommes de terre coupées en petits dés.
+5. Dans la poêle, faites dorer l’oignon restant et l’ail haché, avec les pommes de terre coupées en petits dés. 
 6. Rajoutez le poulet, le reste des épices colombo, et le persil haché.
 7. Couvrez d’eau et laissez mijoter 10 min.
 8. Servez le poulet avec en accompagnement du riz.
