@@ -25,38 +25,12 @@ date: '2019-01-22T12:25:07+01:00'
 
 \- Eau glacée
 
-
-
 ## Préparation du Madou
 
-Pour réaliser cette recette vous aurez besoin d’un pichet, d’un mortier et d’un presse-agrumes ou d’une centrifugeuse. Vous pourrez retrouver tous ces ustensiles de cuisine et bien plus encore sur la marketplace The Tropic Market.
+Pour réaliser cette recette vous aurez besoin d’un pichet, d’un mortier et d’un presse-agrumes ou d’une centrifugeuse. 
 
-En attendant, passons à la préparation !
-
-
-
-Temps de préparation :  15 min
-
-
-
-Niveau :  Facile
-
-
-
-Etape 1 : mettre les feuilles d’oranger et de citronnier préalablement lavées dans un pichet, les écraser à la main ou à l’aide d’un mortier
-
-
-
-Etape 2 : Presser les 4 oranges puis mettre le jus dans le pichet, faire de même avec les 4 citrons
-
-
-
-Etape 3 : Ajouter de l’eau glacée jusqu’à remplir le pichet
-
-
-
-Etape 4 : Ajouter du sucre de canne à convenance
-
-
-
-Etape 5 : Déguster !
+1. Écrasez les feuilles d’oranger et de citronnier préalablement lavées dans un pichet.
+2. Pressez les 4 oranges puis mettre le jus dans le pichet, faire de même avec les 4 citrons.
+3.  Ajoutez de l’eau glacée jusqu’à remplir le pichet.
+4.  Ajoutez du sucre de canne à convenance.
+5. Servez frais !
