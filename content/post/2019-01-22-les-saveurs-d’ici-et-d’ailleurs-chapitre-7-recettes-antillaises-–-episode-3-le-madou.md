@@ -7,6 +7,7 @@ description: >-
   recettes tout droit venues des Antilles ! Aujourd’hui, on vous partage une
   recette d'une boisson ! Il s’agit d'une boisson une boisson essentiellement à
   base d’agrumes. 
+image: /images/madou.jpg
 categories:
   - Recettes
 date: '2019-01-22T12:25:07+01:00'
