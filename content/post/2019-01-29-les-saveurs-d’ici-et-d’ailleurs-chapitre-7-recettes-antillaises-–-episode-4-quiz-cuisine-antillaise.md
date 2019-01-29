@@ -7,6 +7,7 @@ description: >-
   spécialités culinaires Antillaise. Cette semaine changement de programme ! Au
   lieu d’une recette, nous vous proposons d’effectuer un quiz sur la cuisine
   antillaise.
+image: /images/antilles-paysage.jpg
 categories:
   - Recettes
 date: '2019-01-29T12:46:57+01:00'
