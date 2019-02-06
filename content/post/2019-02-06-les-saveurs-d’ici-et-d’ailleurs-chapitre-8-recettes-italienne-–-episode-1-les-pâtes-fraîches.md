@@ -21,15 +21,10 @@ date: '2019-02-06T12:42:19+01:00'
 
 1. Versez la farine dans un saladier puis ajoutez les œufs. 
 2. Mélanger le tout avec les mains jusqu'à obtenir une pâte compacte, lisse et élastique.  
-3. Formez une boule et la laisser reposer 1 heure à température ambiante. 
+3. Formez une boule et laissez la reposer 1 heure à température ambiante. 
 4. Partager la boule en 2 morceaux.
 5. Puis utiliser un laminoir pour façonner les pâtes. Ou un rouleau à pâtisserie si vous n'avez pas de laminoir.
-6. Avec un laminoir passer la boule 3 fois au cran 0 de l'appareil. Puis 1 fois au cran 1 puis au cran 2, etc... Jusqu'à ce que votre pâte soit à l'épaisseur que vous souhaitez. (Si nécessaire remettre de la farine sur la pâte pour que cela ne colle pas. Bien la plier en deux avant un nouveau passage dans la machine.
-
-3
-
-Faire reposer la pâte sur un torchon 10 minutes minimum. On peut utiliser un séchoir à pâtes (voir la photo).
-
-Pour finir
-
-Faire cuire 3 à 5 minutes et utiliser la recette et la sauce de votre choix !
+6. Avec un laminoir passer la boule 3 fois au cran 0 de l'appareil et effectuer un pliage en 3 pour les 2 dernier passage. Puis 1 fois au cran 1 puis une fois au cran 2, etc... Jusqu'à ce que votre pâte soit à l'épaisseur que vous souhaitez. (Si nécessaire remettre de la farine sur la pâte pour que cela ne colle pas.)
+7. Une fois vos spaghettis ou tagliatelles réalisée, disposez les sur un séchoir à pâtes.
+8. Enfin, faites cuire 3 à 5 minutes vos pâtes
+9. Bon appétit !
