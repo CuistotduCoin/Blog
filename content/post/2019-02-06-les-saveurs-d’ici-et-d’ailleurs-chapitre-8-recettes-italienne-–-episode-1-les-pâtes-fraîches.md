@@ -7,6 +7,7 @@ description: >-
   parti pour redécouvrir des recettes tout droit venues d'Italie ! Aujourd’hui,
   on vous partage une recette indispensable pour tout cuisinier ! Il s’agit des
   pâtes fraîches.
+image: /images/img_6981.jpg
 categories:
   - Recettes
 date: '2019-02-06T12:42:19+01:00'
