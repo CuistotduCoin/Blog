@@ -1,6 +1,6 @@
 ---
 title: >-
-  Les Saveurs D’Ici et D’Ailleurs Chapitre 8 : Recettes Italienne – Episode 1 :
+  Les Saveurs D’Ici et D’Ailleurs Chapitre 8 : Recettes Italiennes – Episode 1 :
   Les pâtes fraîches
 description: >-
   Vous avez été nombreux à nous demander des recettes italienne ! Alors c'est
