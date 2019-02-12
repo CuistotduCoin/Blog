@@ -29,4 +29,10 @@ date: '2019-02-12T14:28:20+01:00'
 
 
 
-Préparation du pesto
+## Préparation du pesto
+
+1. Émincez les 2 gousses d'ail et mettez les dans un mortier avec 1/2 pincée de gros sel. Puis pilez le tout jusqu'à ce que vous obteniez une crème.
+2. Ajoutez à cette crème les feuilles de basilic et le reste de gros sel. Puis pilez le tout.
+3. Ajoutez les pignons et petit à petit les fromages. Continuez jusqu'à ce que obteniez une sauce homogène.
+4. Enfin, mélangez la sauce tout en versant doucement l'huile d'olive.
+5. Votre pesto est prêt à être dégusté avec vos pâtes fraîches :)
