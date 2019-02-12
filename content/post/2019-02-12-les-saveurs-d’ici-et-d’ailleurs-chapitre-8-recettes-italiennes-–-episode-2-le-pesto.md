@@ -7,6 +7,7 @@ description: >-
   parti pour redécouvrir des recettes tout droit venues d’Italie ! Aujourd’hui,
   on vous partage une recette qui s'associe parfaitement avec les pâtes fraîches
   : Il s'agit du pesto !
+image: /images/pesto-maison.jpeg
 categories:
   - Recettes
 date: '2019-02-12T14:28:20+01:00'
