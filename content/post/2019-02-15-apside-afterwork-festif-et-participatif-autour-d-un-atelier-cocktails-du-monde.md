@@ -7,6 +7,7 @@ description: >-
   retrouvés au Moulin du Ponchou à Brest. Accueillis par Cuistot du Coin, un
   verre de citronnade maison à la main, ils ont découvert ce site caché en plein
   cœur du quartier de Bohars.
+image: /images/img_6950.jpg
 categories:
   - Entreprises
 date: '2019-02-15T15:43:15+01:00'
