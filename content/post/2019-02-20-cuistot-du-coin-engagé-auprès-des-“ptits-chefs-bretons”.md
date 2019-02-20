@@ -1,5 +1,5 @@
 ---
-title: Cuistot du Coin engagé auprès des “Ptits Chefs Bretons”
+title: Cuistot du Coin engagé auprès des “Petits Chefs Bretons”
 description: >-
   Depuis maintenant près de 6 mois, nos Cuistots se rendent chaque mois à Ty
   Yann (service pédiatrique de la Fondation Ildys à Brest) pour le projet
