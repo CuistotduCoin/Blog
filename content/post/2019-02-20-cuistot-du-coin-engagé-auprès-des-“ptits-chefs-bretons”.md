@@ -4,6 +4,7 @@ description: >-
   Depuis maintenant près de 6 mois, nos Cuistots se rendent chaque mois à Ty
   Yann (service pédiatrique de la Fondation Ildys à Brest) pour le projet
   “Petits Chefs Bretons”.
+image: /images/46499157_751741848510277_8448239308757794816_n.jpg
 categories:
   - Ateliers
 date: '2019-02-20T14:20:18+01:00'
