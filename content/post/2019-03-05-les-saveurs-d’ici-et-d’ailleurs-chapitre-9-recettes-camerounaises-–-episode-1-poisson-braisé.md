@@ -10,4 +10,18 @@ categories:
   - Recettes
 date: '2019-03-05T15:38:06+01:00'
 ---
-qd
+## Ingrédients pour le poisson braisé : 
+
+\- 1 Poisson au choix : bars, soles ou maquereaux
+
+\- 50g de gingembre
+
+\- 50g d’ail
+
+\- 4 pèbès
+
+\- 10g de poivre blanc
+
+\- Jus de citron
+
+\- De l'huile
