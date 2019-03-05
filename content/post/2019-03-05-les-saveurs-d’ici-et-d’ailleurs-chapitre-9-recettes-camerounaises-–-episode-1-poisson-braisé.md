@@ -6,6 +6,7 @@ description: >-
   Au mois de mars nous mettons à l'honneur quelques recettes Camerounaises !
   Cette semaine on vous partage un plat typique du Cameroun, il s'agit du
   poisson braisé !
+image: /images/poisson-braisé.png
 categories:
   - Recettes
 date: '2019-03-05T15:38:06+01:00'
