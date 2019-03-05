@@ -30,13 +30,11 @@ date: '2019-03-05T15:38:06+01:00'
 
 ## Préparation du poisson braisé :
 
-Epluchez l’ail et le gingembre
-
-Décortiquez le pèbè et faites le torréfier 2 à 3 minutes dans un poêle chaude sans ajout de matière grasse
-
-Ecrasez finement tous les ingrédients jusqu’à l’obtention d’une pâte homogène. Ajoutez le jus de citron et l’huile, mélangez
-
-Ecrasez à la pierre, au mortier ou au mixer. Rajoutez de l’huile pour faciliter le mixage. Ajoutez le jus de citron et 2 à 3 cuillères à soupe d’huile
+1. Épluchez l’ail et le gingembre
+2. Décortiquez les pèbès et faites les torréfier 2 à 3 minutes dans un poêle chaude _(sans ajout de matière grasse)._
+3. Écrasez l'ail, le gingembre et les pèbès jusqu’à l’obtention d’une pâte homogène. 
+4. A cette pâte, ajoutez 1 c.a.s de jus de citron et d’huile. 
+5. Puis mélangez le tout et écrasez dans un mortier (_ou à l'aide d'un mixe_r). Rajoutez de l’huile pour faciliter le mixage. Ajoutez le jus de citron et 2 à 3 cuillères à soupe d’huile
 
 Ecaillez, videz et ébarbez votre poisson. Faites des entailles tous les 2 ou 3 centimètres dans la peau du poisson
 
