@@ -42,27 +42,12 @@ date: '2019-03-12T11:58:57+01:00'
 
 ## Préparation du poulet DG :
 
-Découpez et apprêtez votre poulet
-
-Faites bouillir le poulet dans une casserole avec un peu d'eau, un oignon, 1/2poivron et l'ail durant 10 minutes
-
-Pendant ce temps, préparez les carottes, réservez-les
-
-Coupez les tomates en petits dés, réservez-les
-
-Ecossez les haricots et coupez-les en petits dés, réservez-les
-
-Mettez de l'huile dans une poêle et faites bien dorer les morceaux de poulets sur chaque face
-
-Reservez les morceaux de poulets
-
-Coupez les plantains en rondelles
-
-Faites frire les rondelles de plantain
-
-Réservez le plantain
-
-Faites revenir les carottes, les haricots, les tomates et le restant des poivrons dans une casserole avec un peu d'huile
+1. Découpez votre poulet en morceaux.
+2. Faites bouillir vos morceaux avec un peu d'eau dans une casserole. Et ajoutez y 1 oignon, 1/2 poivron et l'ail pendant 10 minutes.
+3. Pendant ce temps, coupez les carottes en morceaux. Ainsi que les tomates en dés. Enfin, écossez les haricots et coupez-les en petits dés. Réservez le tout.
+4. Mettez de l'huile dans une poêle et faites bien dorer les morceaux de poulets sur chaque face. Puis réservez-les.
+5. Coupez les plantains en rondelles et faites-les frire. Puis réserver-les.
+6. Faites revenir les carottes, les haricots, les tomates et le restant des poivrons dans une casserole avec un peu d'huile
 
 Ajoutez le reste d'oignon coupé en tranches
 
