@@ -47,14 +47,8 @@ date: '2019-03-12T11:58:57+01:00'
 3. Pendant ce temps, coupez les carottes en morceaux. Ainsi que les tomates en dés. Enfin, écossez les haricots et coupez-les en petits dés. Réservez le tout.
 4. Mettez de l'huile dans une poêle et faites bien dorer les morceaux de poulets sur chaque face. Puis réservez-les.
 5. Coupez les plantains en rondelles et faites-les frire. Puis réserver-les.
-6. Faites revenir les carottes, les haricots, les tomates et le restant des poivrons dans une casserole avec un peu d'huile
-
-Ajoutez le reste d'oignon coupé en tranches
-
-Préparez un cube Maggi
-
-Assaisonnez avec le cube, le gingembre, ajoutez le piment et un verre d'eau
-
-Ajoutez progressivement le poulet et le plantain, tournez. Laissez cuire encore 10 minutes.
-
-C'est prêt. Servez chaud, bon appétit !
+6. Faites revenir les carottes, les haricots, les tomates et le restant des poivrons dans une casserole avec un peu d'huile.
+7. Puis, ajoutez le reste d'oignon coupé en tranches.
+8. Ajoutez le cube, le gingembre, le piment et un verre d'eau.
+9. Ajoutez progressivement le poulet et le plantain, tournez. Laissez cuire encore 10 minutes.
+10. Voilà c'est prêt ! Bon appétit :)
