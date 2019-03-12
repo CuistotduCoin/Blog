@@ -6,6 +6,7 @@ description: >-
   Au mois de mars nous mettons à l’honneur quelques recettes Camerounaises !
   Cette semaine on vous partage un plat typique du Cameroun, il s’agit du poulet
   DG !
+image: /images/poulet-dg.jpg
 categories:
   - Recettes
 date: '2019-03-12T11:58:57+01:00'
