@@ -9,6 +9,7 @@ description: >-
   demandez-vous si vos collaborateurs sont enclin à vous écouter et ainsi
   prendre part à vos projets et s’engager à vos côtés. Pour se faire, nous vous
   livrons notre recette !
+image: /images/img_7527.jpg
 categories:
   - Entreprises
 date: '2019-03-15T16:16:00+01:00'
