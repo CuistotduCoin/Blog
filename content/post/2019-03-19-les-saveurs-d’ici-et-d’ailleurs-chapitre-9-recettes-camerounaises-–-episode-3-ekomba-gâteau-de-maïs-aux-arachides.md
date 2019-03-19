@@ -26,24 +26,14 @@ date: '2019-03-19T13:03:45+01:00'
 
 ## Préparation du Ekomba : 
 
-S’il s’agit de maïs frais, il faut égrainer les épis a l’aide d’un couteau. Ecraser délicatement les graines obtenues et réserver la pâte dans un saladier.
-
-Si par contre il s’agit de maïs sec, les faire tremper la veille pour les ramollir et pouvoir les écraser ensuite
-
-Trier et faire griller les arachides délicatement,  et laissez reposer la pâte
-
-Dans un saladier, ajouter progressivement à la pâte de maïs un peu d’eau en remuant jusqu’à obtention d’un mélange lourd
-
-Ajouter ensuite la pâte d’arachides au maïs et remuer énergiquement à l’aide d’une spatule en bois. Une fois le mélange bien homogène, ajouter une pincée de sel et un piment écrasé
-
-Ajouter 1-2 cuillères à soupe d’huile de palme
-
-\    Nettoyer soigneusement les feuilles de bananier. Débarrasser les tiges qu’elles possèdent  et chauffer légèrement afin de faciliter leur manipulation.
-
-Mettre en petite quantité la patte dans deux feuilles superposées. Fermer le paquet en donnant une forme rectangulaire au paquet.
-
-Dans une marmite, disposer les tiges des feuilles et de l’eau pour obtenir une cuisson à la vapeur. Une fois l’eau portée à ébullition, poser les paquets au dessus des tiges pour qu’ils ne touchent pas le fond.
-
-Couvrir la marmite et vérifier régulièrement le niveau d’eau. Ajouter en petite quantité d’eau si nécessaire.
-
-Compter 1h 30 à 2 h de temps de cuisson. Laisser sécher la marmite pour que le met ne soit pas humide
+1. Égrainez les épis a l’aide d’un couteau. Écrasez délicatement les graines obtenues jusqu'à obtention d'une pâte. Puis réservez la pâte. 
+2. Triez et faites griller les arachides délicatement puis laissez reposer la pâte.
+3. Dans un saladier, ajoutez progressivement à la pâte de maïs un peu d’eau en remuant jusqu’à obtention d’un mélange lourd.
+4. Ajoutez la pâte d’arachides au maïs et remuez énergiquement. Une fois le mélange bien homogène, ajoutez une pincée de sel.
+5. Ajoutez 1-2 c.à.s d’huile.
+6. Nettoyez soigneusement les feuilles de bananier (débarrassez les tiges et chauffez légèrement afin de faciliter leur manipulation.)
+7. Mettez en petite quantité la patte dans deux feuilles superposées. Fermer le paquet en donnant une forme rectangulaire.
+8. Dans une marmite, disposez les tiges des feuilles et de l’eau pour obtenir une cuisson à la vapeur. Une fois l’eau portée à ébullition, posez les paquets au dessus des tiges pour qu’ils ne touchent pas le fond.
+9. Couvrez la marmite et vérifiez régulièrement le niveau d’eau. Ajouter en petite quantité d’eau si nécessaire. Comptez 1h30 à 2 h de temps de cuisson. 
+10. Laissez sécher la marmite pour que le met ne soit pas humide.
+11. Vous pouvez déguster votre Ekomba chaud ou froid. Bon appétit :)
