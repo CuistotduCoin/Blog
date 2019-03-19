@@ -6,7 +6,7 @@ description: >-
   Au mois de mars nous mettons à l’honneur quelques recettes Camerounaises !
   Cette semaine on vous partage un dessert typique du Cameroun, il s'agit du
   Ekomba ou également appelé le gâteau de maïs aux arachides.
-image: /images/ekomba-2.jpg
+image: /images/photo9.jpg
 categories:
   - Recettes
 date: '2019-03-19T13:03:45+01:00'
