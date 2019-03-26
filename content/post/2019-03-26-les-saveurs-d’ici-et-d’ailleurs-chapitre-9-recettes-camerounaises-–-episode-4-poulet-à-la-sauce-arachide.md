@@ -24,8 +24,6 @@ date: '2019-03-26T16:07:56+01:00'
 
 \- 2 gousses d’ail
 
-\- 1 piment
-
 \- 400ml de lait de coco
 
 \- 3 cubes Maggi
@@ -34,15 +32,11 @@ date: '2019-03-26T16:07:56+01:00'
 
 \- Du sel
 
-
-
 ## La préparation du poulet à la sauce arachide :
 
-1. Coupez le poulet en morceaux et faites les revenir dans de l’huile chaude jusqu’à ce qu’ils soient bien dorés.
-2. Lorsque le poulet est prêt, récupérez 2 à 3 cuillères à soupe d'huile et faites y revenir les oignons et l’ail hachés.
-   Ajoutez les tomates coupées en dés ainsi que la purée de tomates.
-   Mélangez la pâte d’arachides et le lait de coco de manière à obtenir une crème.
-   Dans la casserole contenant l'oignon, l'ail et la tomate, ajoutez les morceaux de poulet, le mélange arachides-coco.
-   Si nécessaire, ajoutez de l’eau à hauteur des morceaux de poulet, et les cubes Maggi.
-   Laissez l’ensemble cuire 30 minutes, rectifiez l'assaisonnement si nécessaire.
-   Servez avec du riz.
+1. Coupez le poulet en morceaux et faites les revenir dans de l’huile d'arachide chaude.
+2. Lorsque le poulet est bien doré, récupérez 2 à 3 cuillères à soupe d'huile et faites y revenir les oignons et l’ail haché. Ajoutez les tomates coupées en dés ainsi que la purée de tomates.
+3. Mélangez dans un saladier la pâte d’arachides et le lait de coco de manière à obtenir une crème.
+4. Dans la casserole contenant l'oignon, l'ail et la tomate, ajoutez les morceaux de poulet, le mélange arachides-coco. _(Si nécessaire, ajoutez de l’eau à hauteur des morceaux de poulet)_. Puis ajoutez les cubes Maggi.
+5. Laissez l’ensemble cuire 30 minutes.
+6. Servez chaud avec du riz par exemple. Bon appétit :)
