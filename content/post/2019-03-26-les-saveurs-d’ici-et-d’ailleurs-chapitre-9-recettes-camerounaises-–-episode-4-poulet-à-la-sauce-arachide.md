@@ -6,6 +6,7 @@ description: >-
   Au mois de mars nous mettons à l’honneur quelques recettes Camerounaises !
   Cette semaine on vous partage un autre plat, il s’agit du poulet à la sauce
   arachide.
+image: /images/poulet.png
 categories:
   - Recettes
 date: '2019-03-26T16:07:56+01:00'
