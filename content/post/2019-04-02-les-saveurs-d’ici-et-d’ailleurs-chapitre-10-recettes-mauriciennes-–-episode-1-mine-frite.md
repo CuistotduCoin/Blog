@@ -7,6 +7,7 @@ description: >-
   effet, notre nouvelle Cuistot Anuja vient de commencer les ateliers de cuisine
   mauricienne ! Cette semaine, on vous partage la recette d'un plat dont les
   touristes et habitants raffolent !! 
+image: /images/mine-frite.jpg
 categories:
   - Recettes
 date: '2019-04-02T16:54:39+02:00'
