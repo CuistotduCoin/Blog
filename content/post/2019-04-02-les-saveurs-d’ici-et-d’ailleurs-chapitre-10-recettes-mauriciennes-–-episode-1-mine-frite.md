@@ -27,7 +27,8 @@ date: '2019-04-02T16:54:39+02:00'
 
 \- 1 tasse de crevettes
 
-\- Quelques saucisses Chinoise
+\- Quelques saucisses Chinois
+e
 
 \- 75g de pousse de soja 
 
@@ -41,48 +42,26 @@ date: '2019-04-02T16:54:39+02:00'
 
 \- Sel
 
+## La préparation du Mine Frite :
 
-
-## La préparation du Mine Frite : 
-
-\- Lavez les légumes. Épluchez les carottes et coupez-les en bâtonnets.
-
-
+Lavez les légumes. Épluchez les carottes et coupez-les en bâtonnets.
 
 \- Hachez le chou et la brede chinoise.
 
-
-
 \- Coupez le poulet en petits morceaux.
-
-
 
 \- Hachez les saucisses chinoises.
 
-
-
 \- Nettoyez les crevettes.
-
-
 
 \- Faites frire le poulet et les crevettes.
 
-
-
 \- Fouettez l'oeuf, salez et préparez l'omelette. Coupez-les en lanières.
-
-
 
 \- Faites sauter les légumes dans un wok, ajoutez les nouilles et faites cuire. Ajouter la sauce soja et le vin blanc.
 
-
-
 \- Ajoutez le poulet, les crevettes et assaisonnez avec du sel.
 
-
-
 \- Faites sauter le mélange entier jusqu'à cuisson complète.
-
-
 
 \- À la fin, saupoudrer de ciboulette, de saucisses et de lanières d'omelette.
