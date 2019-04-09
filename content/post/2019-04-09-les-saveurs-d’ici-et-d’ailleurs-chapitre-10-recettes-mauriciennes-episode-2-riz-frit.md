@@ -9,6 +9,7 @@ description: >-
   du Mine Frite.  Cette semaine, nous revenons avec la recette d’un plat
   savoureux, facile à cuisiner, mais surtout très apprécié à l'Ile Maurice qui
   est le Riz Frit !
+image: /images/fried-rice-585487_960_720-1-.jpg
 categories:
   - Recettes
 date: '2019-04-09T09:39:42+02:00'
