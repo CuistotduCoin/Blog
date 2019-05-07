@@ -6,7 +6,7 @@ description: >-
   Au mois de mai, nous mettons à l’honneur quelques recettes Algériennes !  En
   effet, notre cuistot Hayet vous fait voyager à travers ses spécialités lors de
   ses ateliers ! Alors pour commencer cette série de recettes, vous avez choisi
-  à l’unanimité celle des boureks au fromage.
+  sur Instagram à la majorité celle des boureks au fromage.
 image: /images/img_5692.jpg
 categories:
   - Recettes
