@@ -7,7 +7,7 @@ description: >-
   effet, notre cuistot Hayet vous fait voyager à travers ses spécialités lors de
   ses ateliers ! Alors pour commencer cette série de recettes, vous avez choisi
   sur Instagram à la majorité celle des boureks au fromage.
-image: /images/img_5692.jpg
+image: /images/bourek.jpg
 categories:
   - Recettes
 date: '2019-05-07T10:40:33+02:00'
