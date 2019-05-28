@@ -5,8 +5,8 @@ title: >-
 description: >-
   Au mois de mai, nous mettons à l’honneur quelques recettes Algériennes ! En
   effet, notre cuistot Hayet nous fait voyager et découvrir ses spécialités au
-  quotidien ! Aujourd’hui, grâce à vos votes sur facebook, on vous fait
-  découvrir les boules à la noix de coco.
+  quotidien ! Aujourd’hui, grâce à vos votes à la majorité sur le sondage de
+  Facebook, on vous fait découvrir les boules à la noix de coco !!
 image: /images/no-bake-coconut-snowballs3-809x1024.jpg
 categories:
   - Recettes
