@@ -1,7 +1,7 @@
 ---
 title: >-
   Les Recettes D’ici et D’ailleurs Chapitre 11 : Recettes Algériennes - Épisode
-  3 : Les boules à la noix de coco
+  4 : Les boules à la noix de coco
 description: >-
   Au mois de mai, nous mettons à l’honneur quelques recettes Algériennes ! En
   effet, notre cuistot Hayet nous fait voyager et découvrir ses spécialités au
