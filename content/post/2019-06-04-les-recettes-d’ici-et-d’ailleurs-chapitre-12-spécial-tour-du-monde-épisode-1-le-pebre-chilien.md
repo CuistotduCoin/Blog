@@ -6,6 +6,7 @@ description: >-
   De juin à août, nous changeons le concept de nos recettes ! Chaque semaine,
   nous vous ferons découvrir une recette d'un pays différent. On commence avec
   le Pebre, un apéritif chilien que l'on déguste lors de l'apéro.
+image: /images/pebrechili.png
 categories:
   - Recettes
 date: '2019-06-04T15:27:47+02:00'
