@@ -3,7 +3,7 @@ title: Laissez-vous tenter par les ateliers privatifs pour vos EVJF !
 description: >-
   L’enterrement de vie de jeune fille doit être un moment mémorable entre
   copines !  Alors comment faire pour organiser un EVJF réussi ? 
-image: /images/pretty-cupcake-wallpaper-2.jpg
+image: /images/dsc_0279.jpg
 categories:
   - Ateliers
 date: '2019-05-23T14:35:11+02:00'
