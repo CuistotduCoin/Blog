@@ -7,7 +7,7 @@ description: >-
   effet, notre cuistot Hayet nous fait voyager et découvrir ses spécialités au
   quotidien ! Aujourd'hui on vous fait découvrir les Makrouts aux figues, une
   pâtisserie typique pour vous les gourmands ! 
-image: /images/58704295_175361626788469_2538605765537797565_n.jpg
+image: /images/makrouts.jpg
 categories:
   - Recettes
 date: '2019-05-21T11:28:45+02:00'
