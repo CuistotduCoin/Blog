@@ -45,7 +45,7 @@ date: '2019-05-28T09:43:18+02:00'
 5. Enfournez et surveillez la cuisson, 15 minutes environ. Dès qu'ils commencent à prendre une belle couleur en dessous, retirez du four
     et laissez refroidir.
 6. Chauffez la confiture avec la fleur d'oranger ou de l'eau. _(La quantité dépendra de la consistance de votre confiture.)_
-7. Préparez un autre saladier avec la noix de cocopour la déco.
+7. Préparez un autre saladier avec la noix de coco pour la déco.
 8. Mettez vos gâteaux dans la confiture. Laissez une minute mini pour qu'ils s'imprègnent bien.
 9. Collez les biscuits deux par deux. Puis, mettez-les dans la noix de coco. Faites-les bien enrober. Appuyez bien avec les mains pour faire adhérer la noix de coco gâteau afin d'avoir une belle couche.
 10. Voilà, vos gâteaux sont prêt à être déguster :)
