@@ -12,22 +12,26 @@ date: '2019-06-04T15:27:47+02:00'
 ---
 ## Les ingrédients du pebre Chilien :
 
-1 oignon (les oignons chiliens mesurant le double de nos oignons, il faut seulement utiliser la moitié)
+\- 1 oignon
 
-½ d’un piment vert dit « aji cristal »
+\- ½ d’un piment vert 
 
-2 grosses pincées de coriandre
+\- 2 pincées de coriandre
 
-1 grosse tomate
+\- 1 grosse tomate ou 2 tomates moyennes
 
-1 dent d’ail
+\- 1 dent d’ail
 
-3 grosses cuillères de vinaigre de vin
+\- 3 c.a.s de vinaigre de vin
 
-6 grosses cuillères d’huile d’olive
+\- 6 c.a.s d’huile d’olive
 
-Une pincée de sel
+\- Une pincée de sel
 
-Poivre
+\- Du poivre
 
-Moitié du jus d’un citron de taille moyenne
+\- Jus d’un ½ citron 
+
+
+
+## La préparation du Pebre Chilien :
