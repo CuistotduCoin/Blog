@@ -7,7 +7,7 @@ description: >-
   effet, notre cuistot Hayet nous fait voyager et découvrir ses spécialités au
   quotidien ! Aujourd’hui, grâce à vos votes à la majorité sur le sondage de
   Facebook, on vous fait découvrir les boules à la noix de coco !!
-image: /images/no-bake-coconut-snowballs3-809x1024.jpg
+image: /images/boules-noix-de-coco.jpg
 categories:
   - Recettes
 date: '2019-05-28T09:43:18+02:00'
