@@ -12,7 +12,7 @@ date: '2019-06-04T15:27:47+02:00'
 ---
 ## Les ingrédients du pebre Chilien :
 
-\- 1 oignon
+\-  ½ oignon
 
 \- ½ d’un piment vert 
 
@@ -35,3 +35,9 @@ date: '2019-06-04T15:27:47+02:00'
 
 
 ## La préparation du Pebre Chilien :
+
+1. Coupez finement l’oignon puis mettez ce que vous obtenez dans un bol d’eau tiède et laissez reposer quelques minutes. Ensuite, pressez avec vos mains. _(Recommencez si vous trouvez que le goût de l’oignon est encore trop fort.)_ Ensuite, laissez-les égoutter dans votre passoire.
+2. Coupez finement la tomate, la coriandre, l’ail et mettez-les dans un saladier. Puis rajoutez votre oignon bien égoutté.
+3. Pressez la moitié du citron directement dans le saladier. Rajouter l’huile, le vinaigre, le sel et le poivre. 
+4. Mélangez et laissez reposer environ 20 minutes.
+5. C'est prêt ! Vous pouvez déguster votre Pebre, dans des galettes de maïs, avec des chips tortillas ou du pain par exemple :)
