@@ -28,6 +28,10 @@ Et bien plus encore !
 
 2. **Le gâteau d'anniversaire !**
 
-Le gâteau d'anniversaire est également l'une des parties les plus importante de la fête. C'est là où les autres enfants chanteront Joyeux Anniversaire, votre enfants soufflera ses bougies et quelques minutes plus tard il déballera tous ses cadeaux 
+Le gâteau d'anniversaire est également l'une des parties les plus importante de la fête. C'est là où les autres enfants chanteront "Joyeux Anniversaire", votre enfant soufflera ses bougies et quelques minutes plus tard il déballera tous ses cadeaux. Le gâteau est toujours l'un des moments préférés de tous :)
 
 ## La solution de Cuistot du Coin
+
+Et si vous alliez l'activité et le gâteau ?!
+
+Les enfants pourraient préparer le ou les gâteaux pendant un temps. Par exemple, ils pourraient préparer un number cake représentant l'âge de l'enfant qui fête son anniversaire ! Ou si vous voulez être sûr que tout le monde mange un bout de gâteau (pour les allergiques, ceux qui ont des préférences alimentaires...) les enfants pourraient préparer plusieurs recettes grâce à des cupcakes :)
