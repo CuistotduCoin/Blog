@@ -4,6 +4,7 @@ description: >-
   Bientôt l'été et le beau temps arriveront !! C'est d'ailleurs souvent à cette
   époque que les anniversaires plein air ont lieu ! Comme chaque année, les
   parents seront confrontés aux mêmes problématiques.
+image: /images/img_20180613_172358.jpg
 categories:
   - Ateliers
 date: '2019-06-12T11:50:17+02:00'
