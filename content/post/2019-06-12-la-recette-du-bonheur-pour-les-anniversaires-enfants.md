@@ -16,7 +16,7 @@ Chaque année le même dilemme se pose ! Quelles activités allons-nous proposer
 
 Vous pouvez alors vous orienter sur plusieurs thèmes : 
 
-\- Le sport : Organiser un olympiade en équipe avec différents "sports" ou petites activités. Ou alors un rallye photo, les enfants devront trouver d'où les photos ont été prises !
+\- Le sport : Organiser une olympiade en équipe avec différents "sports" ou petites activités. Ou alors un rallye photo, les enfants devront trouver d'où les photos ont été prises !
 
 \- L’artistique : Faire une activité autour du chant, de la danse, de la peinture ou encore la réalisation d'un mini spectacle
 
@@ -41,7 +41,7 @@ C'est un deux en un ! Moins de préparation :)
 
 **Pourquoi faire appel à Cuistot du Coin ?**
 
-1. Moins de préparatif pour vous ! Pas d'achat à faire pour l'activité, on fourni tout.
+1. Moins de préparatifs pour vous ! Pas d'achat à faire pour l'activité, on fourni tout.
 
 2. Les enfants en autonomie avec le Cuistot. Vous pourrez profiter des autres adultes.
 
@@ -52,5 +52,3 @@ C'est un deux en un ! Moins de préparation :)
 
 
 Si vous souhaitez réaliser un atelier pour un anniversaire ou un autre événement n'hésitez pas à nous contacter : contact@cuistotducoin.com ou 06.79.59.88.48.
-
-Vous pouvez également nous indiquer votre besoin ici :
