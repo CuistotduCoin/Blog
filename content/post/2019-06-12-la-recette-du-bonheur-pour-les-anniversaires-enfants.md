@@ -34,6 +34,23 @@ Le gâteau d'anniversaire est également l'une des parties les plus importante d
 
 Et si vous alliez l'activité et le gâteau ?!
 
-Les enfants pourraient préparer le ou les gâteaux pendant un temps. Par exemple, ils pourraient préparer un number cake représentant l'âge de l'enfant qui fête son anniversaire ! Ou si vous voulez être sûr que tout le monde mange un bout de gâteau (pour les allergiques, ceux qui ont des préférences alimentaires...) les enfants pourraient préparer plusieurs recettes grâce à des cupcakes :)
+Les enfants pourraient préparer le ou les gâteaux pendant un temps. Par exemple, ils pourraient préparer un number cake représentant l'âge de l'enfant qui fête son anniversaire ! Ou si vous voulez être sûr que tout le monde mange un bout de gâteau (allergies, préférences alimentaires...) les enfants pourraient préparer plusieurs recettes grâce à des cupcakes :)
 
-P
+**L'avantage ?**\
+C'est un deux en un ! Moins de préparation :)
+
+**Pourquoi faire appel à Cuistot du Coin ?**
+
+1. Moins de préparatif pour vous ! Pas d'achat à faire pour l'activité, on fourni tout.
+
+2. Les enfants en autonomie avec le Cuistot. Vous pourrez profiter des autres adultes.
+
+3. Le thème que vous souhaitez. Grâce à la décoration des cupcakes les enfants peuvent laisser parler leur imaginaire avec ou sans thème (princesses, super-héros, etc.)
+
+4. Une activité qui plaît à tous. Garçons ou filles tout le monde aimera l'activité :)
+
+
+
+Si vous souhaitez réaliser un atelier pour un anniversaire ou un autre événement n'hésitez pas à nous contacter : contact@cuistotducoin.com ou 06.79.59.88.48.
+
+Vous pouvez également nous indiquer votre besoin ici :
