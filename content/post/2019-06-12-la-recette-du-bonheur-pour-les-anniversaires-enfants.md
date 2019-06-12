@@ -10,20 +10,24 @@ date: '2019-06-12T11:50:17+02:00'
 ---
 ## Les 2 points clés d'une fête réussie
 
-1. Les activités :
+1. **Les activités :**
 
 Chaque année le même dilemme se pose ! Quelles activités allons-nous proposer aux enfants présents ? 
 
 Vous pouvez alors vous orienter sur plusieurs thèmes : 
 
-\- Le sport : Organiser un olympiade en équipe avec différents "sports" ou petites activités. 
+\- Le sport : Organiser un olympiade en équipe avec différents "sports" ou petites activités. Ou alors un rallye photo, les enfants devront trouver d'où les photos ont été prises !
 
-\- L’artistique : 
+\- L’artistique : Faire une activité autour du chant, de la danse, de la peinture ou encore la réalisation d'un mini spectacle
 
-la découverte 
+\- La découverte : Vous pouvez les initier à plein de domaine comme l'astronomie en leur montrant les étoiles ou encore la magie en leur réalisant de petits tours de passe-passe, etc...
 
-\- Les sorties :
+\- Les sorties : Vous pouvez les emmener à Océanopolis pour leur faire découvrir l'univers marin ou alors leur faire vivre une journée forte en émotion à la récré des 3 curés !
 
-2. Le gâteau d'anniversaire !
+Et bien plus encore ! 
+
+2. **Le gâteau d'anniversaire !**
+
+Le gâteau d'anniversaire est également l'une des parties les plus importante de la fête. C'est là où les autres enfants chanteront Joyeux Anniversaire, votre enfants soufflera ses bougies et quelques minutes plus tard il déballera tous ses cadeaux 
 
 ## La solution de Cuistot du Coin
