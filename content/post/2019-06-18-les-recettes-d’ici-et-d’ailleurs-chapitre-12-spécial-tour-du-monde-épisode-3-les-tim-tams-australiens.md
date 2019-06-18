@@ -14,7 +14,7 @@ date: '2019-06-18T11:16:07+02:00'
 ---
 ## **Ingrédients pour les Tim Tam (environ une douzaine) :**
 
-**La génoise **
+**La génoise**
 
 \- 115g de beurre doux
 
@@ -42,11 +42,10 @@ date: '2019-06-18T11:16:07+02:00'
 
 \- 1 c.à.s de beurre de coco
 
+## Préparation des Tim Tam :
 
-
-## Préparation des Tim Tam : 
-
-**La génoise au chocolat : **
+**La génoise au chocolat
+**
 
 1. Fouettez le beurre ramolli avec le sucre jusqu'à l'obtention d'un mélange mousseux.
 2. Ajoutez l’œuf et mélangez pour qu'il soit bien incorporé. Ensuite, ajoutez le cacao, la farine et le sel. Mélangez encore jusqu'à l'obtention d'une préparation homogène.
@@ -55,14 +54,17 @@ date: '2019-06-18T11:16:07+02:00'
 5. Enfournez la génoise pendant 10 à 12min. 
 6. Une fois la cuisson finie, coupez des rectangles de même taille. Puis laissez refroidir.
 
+**La crème au chocolat
+**
 
+1. 
 
-**La crème au chocolat :**
+Dans un saladier, fouettez le beurre avec le sucre puis ajoutez l'Ovomaltine jusqu'à l'obtention d'un mélange crémeux.
 
-1. Dans un saladier, fouettez le beurre avec le sucre puis ajoutez l'Ovomaltine jusqu'à l'obtention d'un mélange crémeux.
 2. A l'aide d'une cuillère, étalez de la crème sur la moitié des génoises et recouvrez avec le reste. Entreposez au frais le temps de préparer l'enrobage.
 
-**L'enrobage :**
+**L'enrobage
+**
 
 1. Placez le chocolat coupé en morceaux avec le beurre de coco dans un saladier. Faites fondre au micro-onde environ 1min. Lissez avec une spatule et laissez légèrement refroidir.
 2. Avec une fourchette, plongez les gâteaux un à un dans le chocolat fondu.
