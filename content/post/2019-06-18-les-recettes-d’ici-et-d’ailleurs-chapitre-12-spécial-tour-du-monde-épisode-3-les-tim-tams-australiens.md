@@ -1,18 +1,18 @@
 ---
 title: >-
   Les Recettes D’ici et D’ailleurs Chapitre 12 : Spécial Tour du Monde - Épisode
-  3 : Les Tim Tams Australiens
+  3 : Les Tim Tam Australiens
 description: >-
   De juin à août, nous changeons le concept de nos recettes ! Chaque semaine,
   nous vous ferons découvrir une recette d’un pays différent. Aujourd’hui, on
   découvre des petits biscuits dont tous les Australiens raffolent !! Il s’agit
-  des Tim Tams :)
+  des Tim Tam :)
 image: /images/20170720-5a8a8865web.jpg
 categories:
   - Recettes
 date: '2019-06-18T11:16:07+02:00'
 ---
-## **Ingrédients pour les Tim Tams (environ une douzaine) :**
+## **Ingrédients pour les Tim Tam (environ une douzaine) :**
 
 **La génoise **
 
@@ -44,7 +44,7 @@ date: '2019-06-18T11:16:07+02:00'
 
 
 
-## Préparation des Tim Tams : 
+## Préparation des Tim Tam : 
 
 **La génoise au chocolat : **
 
