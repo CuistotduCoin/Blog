@@ -47,25 +47,12 @@ date: '2019-06-18T11:16:07+02:00'
 
 **La génoise au chocolat : **
 
-
-
-Fouettez le beurre ramolli avec le sucre jusqu'à l'obtention d'un mélange mousseux.
-
-
-
-Ajoutez alors l'oeuf, mélangez pour qu'il soit bien incorporé puis ajoutez le cacao, la farine et le sel. Mélangez jusqu'à l'obtention d'une préparation homogène.
-
-
-
-Etalez la pâte sur une plaque de cuisson préalablement recouverte de papier sulfurisé, comme un biscuit roulé. Entreposez au congélateur pour 30min.
-
-
-
-Préchauffez le four à 180C° (th.6).
-
-
-
-Enfournez la génoise pour 10 à 12min. A la sortie du four, coupez en rectangles de même taille la génoise. Laissez complètement refroidir sur une grille.
+1. Fouettez le beurre ramolli avec le sucre jusqu'à l'obtention d'un mélange mousseux.
+2. Ajoutez l’œuf et mélangez pour qu'il soit bien incorporé. Ensuite, ajoutez le cacao, la farine et le sel. Mélangez encore jusqu'à l'obtention d'une préparation homogène.
+3. Étalez la pâte sur une plaque de cuisson recouverte de papier sulfurisé. Puis réserver au congélateur pendant 30 minutes.
+4. Préchauffez le four à 180C° (th.6).
+5. Enfournez la génoise pendant 10 à 12min. 
+6. Une fois la cuisson finie, coupez des rectangles de même taille. Puis laissez refroidir.
 
 
 
