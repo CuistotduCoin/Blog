@@ -45,7 +45,7 @@ date: '2019-06-18T11:16:07+02:00'
 
 ## Préparation des Tim Tams : 
 
-Préparez les génoises au chocolat:
+**La génoise au chocolat : **
 
 
 
