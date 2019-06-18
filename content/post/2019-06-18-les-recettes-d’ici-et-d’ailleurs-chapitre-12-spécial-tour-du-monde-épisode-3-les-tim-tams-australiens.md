@@ -56,32 +56,14 @@ date: '2019-06-18T11:16:07+02:00'
 
 
 
-Préparez la crème au chocolat:
+**La crème au chocolat :**
 
+1. Dans un saladier, fouettez le beurre avec le sucre puis ajoutez l'Ovomaltine jusqu'à l'obtention d'un mélange crémeux.
+2. A l'aide d'une cuillère, étalez de la crème sur la moitié des génoises et recouvrez avec le reste. Entreposez au frais le temps de préparer l'enrobage.
 
+**L'enrobage :**
 
-Dans un saladier, fouettez le beurre avec le sucre puis ajoutez l'Ovomaltine® en poudre jusqu'à l'obtention d'un mélange crémeux et homogène.
-
-
-
-A l'aide d'une cuillère étalez de la crème sur la moitié des génoises et recouvrez avec le reste. Entreposez au frais le temps de préparer l'enrobage.
-
-
-
-Préparez l'enrobage:
-
-
-
-Placez le chocolat coupé en morceaux avec le beurre de coco dans un saladier. Faites fondre au four à micro-onde environ 1min, en veillant à ce que le chocolat ne brûle pas. Lissez avec une spatule et laissez légèrement refroidir.
-
-
-
-Avec une fourchette, plongez les gâteaux un à un dans le chocolat fondu puis replacez-les sur une plaque préalablement recouverte de papier sulfurisé.
-
-
-
-Entreposez au réfrigérateur jusqu'à ce que le chocolat durcisse.
-
-
-
-Dégustez ! Les gâteaux de conservent au frais.
+1. Placez le chocolat coupé en morceaux avec le beurre de coco dans un saladier. Faites fondre au micro-onde environ 1min. Lissez avec une spatule et laissez légèrement refroidir.
+2. Avec une fourchette, plongez les gâteaux un à un dans le chocolat fondu.
+3. Laissez-les au frigo jusqu'à ce que le chocolat durcisse.
+4. Bon appétit !
