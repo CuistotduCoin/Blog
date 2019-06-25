@@ -7,6 +7,7 @@ description: >-
   nous vous ferons découvrir une recette d’un pays différent. Aujourd’hui, on
   découvre un plat typique du Portugal : L'arroz de Marisco. Idéal à manger en
   été ! 
+image: /images/phpjnh8fo_57ebcfc0e2071.jpg
 categories:
   - Recettes
 date: '2019-06-25T11:55:17+02:00'
