@@ -6,6 +6,7 @@ description: >-
   De juin à août, nous changeons le concept de nos recettes ! Chaque semaine,
   nous vous ferons découvrir une recette d’un pays différent. Aujourd’hui, on
   découvre un plat typique du Vietnam, il s'agit du Phở aux crevettes :)
+image: /images/pho-crevettes.jpg
 categories:
   - Recettes
 date: '2019-07-02T10:57:54+02:00'
