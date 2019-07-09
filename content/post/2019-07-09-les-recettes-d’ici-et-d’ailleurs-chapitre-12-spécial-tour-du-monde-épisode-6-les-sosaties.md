@@ -7,6 +7,7 @@ description: >-
   nous vous ferons découvrir une recette d’un pays différent. Aujourd’hui, on
   découvre un plat typique d'Afrique du Sud il s’agit des sosaties, idéales pour
   vos BBQ  :)
+image: /images/sosaties.jpg
 categories:
   - Recettes
 date: '2019-07-09T11:00:17+02:00'
