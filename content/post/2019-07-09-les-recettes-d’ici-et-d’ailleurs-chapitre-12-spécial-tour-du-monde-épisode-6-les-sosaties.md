@@ -13,31 +13,31 @@ date: '2019-07-09T11:00:17+02:00'
 ---
 ## Les ingrédients des sosaties (pour 4 personnes) :
 
+\- 650 g de gigot d’agneau (cubes de 2-3 cm)
+
+\- 200 g d’abricots secs
+
 \- 150 g de confiture d’abricot
 
 \- 225 ml de vinaigre balsamic
 
-\- 4 cuillères à soupe de nectar d’abricot
+\- 4 c.a.s de nectar d’abricot
 
-\- 3 cuillères à soupe de curry
+\- 3 c.a.s de curry
 
 \- 4 gousses d’ail hachées
 
-\- 2 cuillères à soupe de gingembre frais râpé
+\- 2 c.a.s de gingembre frais râpé
 
-\- 2 cuillères à café de coriandre moulue
+\- 2 c.a.c de coriandre moulue
 
-\- 1 cuillère à café de cumin moulu
+\- 1 c.a.c cumin moulu
 
 \- Feuilles de laurier
 
 \- Sel, poivre
 
-\- 650 g de gigot d’agneau (sans os) coupé en cubes de 2-3 cm
 
-\- 200 g d’abricots secs
-
-
 
 ## La préparation des sosaties :
 
