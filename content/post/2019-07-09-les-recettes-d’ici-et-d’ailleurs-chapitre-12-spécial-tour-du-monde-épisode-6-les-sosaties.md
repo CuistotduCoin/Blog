@@ -41,24 +41,16 @@ date: '2019-07-09T11:00:17+02:00'
 
 ## La préparation des sosaties :
 
-1. Dans une poêle, mélangez la confiture, le vinaigre, le nectar d’abricot, le curry, l’ail, le gingembre, la coriandre, le cumin, et le laurier, à feu moyen, jusqu’à ce que le mélange bouillonne. Puis sortez du feu et laissez refroidir.
+1. Mélangez la confiture, le vinaigre, le nectar d’abricot, le curry, l’ail, le gingembre, la coriandre, le cumin, et le laurier, dans une poêle à feu moyen jusqu’à ce que le mélange bouillonne. Puis sortez du feu et laissez refroidir.
 
-
-
-2. Dans un récipient, mélangez bien l’agneau, votre premier mélange, le sel et poivre.
-
-
+2. Dans un saladier, mélangez l’agneau avec le mélange et assaisonné avec le sel et le poivre.
 
 3. Laissez mariner pendant au moins 2 heures au réfrigérateur.
 
-
-
 4. Pendant ce temps, laissez tremper les abricots secs dans de l’eau bouillante pendant 1 heure, jusqu’à ce qu’ils aient doublé de volume.
 
+5. Constituez vos brochettes en alternant la viande, les abricots et les feuilles de laurier.
 
+6. Faites cuire vos brochettes au BBQ jusqu’à ce que la viande soit rosée (environ 10-15 minutes).
 
-5. Alternez vos abricots, morceaux de viande, et feuilles de laurier sur vos brochettes en bois.
-
-
-
-6. Faites griller au barbecue 10-15 minutes, jusqu’à ce que la viande soit rosée.
+7. Bon appétit !!
