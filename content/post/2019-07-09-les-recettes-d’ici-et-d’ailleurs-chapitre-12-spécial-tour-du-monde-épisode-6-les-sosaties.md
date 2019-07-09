@@ -11,4 +11,54 @@ categories:
   - Recettes
 date: '2019-07-09T11:00:17+02:00'
 ---
-n
+## Les ingrédients des sosaties (pour 4 personnes) :
+
+\- 150 g de confiture d’abricot
+
+\- 225 ml de vinaigre balsamic
+
+\- 4 cuillères à soupe de nectar d’abricot
+
+\- 3 cuillères à soupe de curry
+
+\- 4 gousses d’ail hachées
+
+\- 2 cuillères à soupe de gingembre frais râpé
+
+\- 2 cuillères à café de coriandre moulue
+
+\- 1 cuillère à café de cumin moulu
+
+\- Feuilles de laurier
+
+\- Sel, poivre
+
+\- 650 g de gigot d’agneau (sans os) coupé en cubes de 2-3 cm
+
+\- 200 g d’abricots secs
+
+
+
+## La préparation des sosaties :
+
+1. Dans une poêle, mélangez la confiture, le vinaigre, le nectar d’abricot, le curry, l’ail, le gingembre, la coriandre, le cumin, et le laurier, à feu moyen, jusqu’à ce que le mélange bouillonne. Puis sortez du feu et laissez refroidir.
+
+
+
+2. Dans un récipient, mélangez bien l’agneau, votre premier mélange, le sel et poivre.
+
+
+
+3. Laissez mariner pendant au moins 2 heures au réfrigérateur.
+
+
+
+4. Pendant ce temps, laissez tremper les abricots secs dans de l’eau bouillante pendant 1 heure, jusqu’à ce qu’ils aient doublé de volume.
+
+
+
+5. Alternez vos abricots, morceaux de viande, et feuilles de laurier sur vos brochettes en bois.
+
+
+
+6. Faites griller au barbecue 10-15 minutes, jusqu’à ce que la viande soit rosée.
