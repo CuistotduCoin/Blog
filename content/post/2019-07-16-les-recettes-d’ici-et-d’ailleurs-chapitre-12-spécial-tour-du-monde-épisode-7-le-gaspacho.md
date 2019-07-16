@@ -6,6 +6,7 @@ description: >-
   De juin à août, nous changeons le concept de nos recettes ! Chaque semaine,
   nous vous ferons découvrir une recette d’un pays différent. Aujourd’hui, on
   redécouvre une recette venue d'Andalousie, il s’agit du gaspacho ! :)
+image: /images/gaspacho.jpg
 categories:
   - Recettes
 date: '2019-07-16T12:39:21+02:00'
