@@ -32,17 +32,9 @@ date: '2019-07-23T11:28:26+02:00'
 
 ## La préparation du pollo a la brasa :
 
-Une des particularités de ce plat péruvien est l’assaisonnement. En effet, il est saumuré c’est à dire baigné dans un bain d’eau salée.  Commencez donc par saumurer votre poulet, en versez dans un bac ou un grand saladier l’eau ainsi que le sel, puis mélangez afin de le diluer. Faites ensuite saumurer (tremper dans le mélange eau – sel) le poulet préalablement vidé et préparé durant 20 minutes. Retirez le ensuite, puis essuyez-le. S’il reste trop d’humidité sur le poulet, la peau ne deviendra pas croustillante.
-
-
-
-Il est temps de préparer les épices qui serviront à aromatiser votre poulet : mélangez la bière noire avec le cumin, le vinaigre blanc ainsi que le poivre noir. Lorsque vous obtiendrez une pâte bien aromatique, badigeonnez votre poulet de cette pâte, puis insérez le reste de cette pâte dans la cavité du poulet ; il faut réaliser cette étape 15 à 20 minutes seulement avant de le lancer en cuisson. Il ne reste plus qu’à fourrer quelques brins de romarin, d’origan ainsi qu’une gousse d’ail écrasée dans la cavité du poulet. Pour un rendu plus soigné, vous pourrez ficeler votre poulet afin qu’il ait une bonne tenue durant la cuisson.
-
-
-
-Il est temps de passer à la cuisson ! Normalement, le poulet est directement cuit sur une broche placée au-dessus des braises. Il est probable que peu soient équipés, mais ce n’est pas un problème car vous pourrez tout aussi bien  le rôtir au four.
-
-Pour cela, placez le poulet au four durant environ 1 heure 20 ; les 20 premières minutes à 250 degrés puis la dernière heure à 200°C. Au bout de 20 minutes de cuisson, retournez le poulet et laissez-le cuire 20 min, puis replacez-le à l’endroit pour la suite de la cuisson ; il est important de respecter les 20 minutes par face durant toute la cuisson.
+1. Dans un grand saladier, versez l'eau et le sel puis mélangez. Faites saumurer le poulet (vidé) pendant 20 minutes. Puis essuyez bien le poulet afin qu'il ne soit plus humide.
+2. Mélangez la bière avec le cumin et le poivre. Badigeonnez votre poulet de cette pâte puis fourrez le reste dans le poulet et rajoutez quelques brins de romarin, d’origan ainsi qu’une gousse d’ail écrasée. Pour une bonne tenue, vous pouvez ficeler le poulet.
+3. 2 options de cuisson : Soit vous pouvez le cuire sur une broche et le placer au-dessus de braises (la méthode traditionnelle). Ou alors ce n'est pas possible pour vous, dans ce cas placez le poulet au four durant environ 1 heure 20 (les 20 premières minutes à 250 degrés puis la dernière heure à 200°C). **Toutes les 20 minutes retourner le poulet !**
 
 
 
