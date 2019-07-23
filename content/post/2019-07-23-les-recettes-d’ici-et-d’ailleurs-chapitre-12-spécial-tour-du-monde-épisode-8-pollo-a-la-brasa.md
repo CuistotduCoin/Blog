@@ -6,6 +6,7 @@ description: >-
   De juin à août, nous changeons le concept de nos recettes ! Chaque semaine,
   nous vous ferons découvrir une recette d’un pays différent. Aujourd’hui, on
   découvre une recette venue du Pérou, il s’agit du pollo a la brasa :)
+image: /images/pollo.jpg
 categories:
   - Recettes
 date: '2019-07-23T11:28:26+02:00'
