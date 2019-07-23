@@ -34,7 +34,7 @@ date: '2019-07-23T11:28:26+02:00'
 
 1. Dans un grand saladier, versez l'eau et le sel puis mélangez. Faites saumurer le poulet (vidé) pendant 20 minutes. Puis essuyez bien le poulet afin qu'il ne soit plus humide.
 2. Mélangez la bière avec le cumin et le poivre. Badigeonnez votre poulet de cette pâte puis fourrez le reste dans le poulet et rajoutez quelques brins de romarin, d’origan ainsi qu’une gousse d’ail écrasée. Pour une bonne tenue, vous pouvez ficeler le poulet.
-3. 2 options de cuisson : Soit vous pouvez le cuire sur une broche et le placer au-dessus de braises (la méthode traditionnelle). Ou alors ce n'est pas possible pour vous, dans ce cas placez le poulet au four durant environ 1 heure 20 (les 20 premières minutes à 250 degrés puis la dernière heure à 200°C). **Toutes les 20 minutes retourner le poulet !**
+3. **2 options de cuisson** : Soit vous pouvez le cuire sur une broche et le placer au-dessus de braises (la méthode traditionnelle). Ou alors ce n'est pas possible pour vous, dans ce cas placez le poulet au four durant environ 1 heure 20 (les 20 premières minutes à 250 degrés puis la dernière heure à 200°C). **Toutes les 20 minutes retourner le poulet !**
 
 
 
