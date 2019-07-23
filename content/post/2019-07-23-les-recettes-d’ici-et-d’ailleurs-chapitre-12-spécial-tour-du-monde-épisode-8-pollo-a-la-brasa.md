@@ -34,20 +34,5 @@ date: '2019-07-23T11:28:26+02:00'
 
 1. Dans un grand saladier, versez l'eau et le sel puis mélangez. Faites saumurer le poulet (vidé) pendant 20 minutes. Puis essuyez bien le poulet afin qu'il ne soit plus humide.
 2. Mélangez la bière avec le cumin et le poivre. Badigeonnez votre poulet de cette pâte puis fourrez le reste dans le poulet et rajoutez quelques brins de romarin, d’origan ainsi qu’une gousse d’ail écrasée. Pour une bonne tenue, vous pouvez ficeler le poulet.
-3. **2 options de cuisson** : Soit vous pouvez le cuire sur une broche et le placer au-dessus de braises (la méthode traditionnelle). Ou alors ce n'est pas possible pour vous, dans ce cas placez le poulet au four durant environ 1 heure 20 (les 20 premières minutes à 250 degrés puis la dernière heure à 200°C). **Toutes les 20 minutes retourner le poulet !**
-
-
-
-Attention : n’oubliez pas d’arroser le poulet avec son jus de cuisson le plus souvent possible, et d’ajouter un peu de beurre pour l’arroser, le poulet n’en sera que plus moelleux !
-
-
-
-Pour vérifier la cuisson de votre poulet, il suffit d’enfoncer un pic au niveau du bas de la cuisse ; s’il n’y a pas de traces de sang, c’est que votre poulet est fin prêt à être dégusté.
-
-
-
-Petite astuce de chef : une fois cuit et hors du four, laissez la viande reposer sous de l’aluminium durant 15 minutes afin qu’elle s’attendrisse.
-
-
-
-Ici on accompagne cette recette traditionnelle péruvienne de frites, de sauces et parfois d’une petite salade composée ;  un délice tout simple, mais au goût bien particulier du Pérou !
+3. **2 options de cuisson** : Soit vous pouvez le cuire sur une broche et le placer au-dessus de braises (la méthode traditionnelle). Ou alors ce n'est pas possible pour vous, dans ce cas placez le poulet au four durant environ 1 heure 20 (les 20 premières minutes à 250 degrés puis la dernière heure à 200°C). **Toutes les 20 minutes retourner le poulet et arrosez le avec son jus !**
+4. Votre poulet est prêt à être dégusté avec des frites ou de la salade. Bon appétit :)
