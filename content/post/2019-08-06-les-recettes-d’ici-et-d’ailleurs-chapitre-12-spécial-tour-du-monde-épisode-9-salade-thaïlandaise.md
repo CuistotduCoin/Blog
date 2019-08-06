@@ -6,6 +6,7 @@ description: >-
   De juin à août, nous changeons le concept de nos recettes ! Chaque semaine,
   nous vous ferons découvrir une recette d’un pays différent. Aujourd’hui, on
   découvre une recette venue d'Asie, il s’agit d'une salade Thaïlandaise:)
+image: /images/salade-de-crevettes-et-pamplemousse-thai.jpg
 categories:
   - Recettes
 date: '2019-08-06T10:21:21+02:00'
