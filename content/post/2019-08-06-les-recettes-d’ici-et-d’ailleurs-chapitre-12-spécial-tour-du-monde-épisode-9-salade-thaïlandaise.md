@@ -33,17 +33,15 @@ date: '2019-08-06T10:21:21+02:00'
 
 \- ½ Botte de coriandre
 
-_**Pour la sauce : **_
+_**Pour la sauce :**_ 
 
-_**\- **_1 c.a.s Jus de citron vert
+**_\- _**1 c.a.s Jus de citron vert
 
 \- 2 c.a.c Sucre de palme
 
 \- 1 c.a.c Nuoc-mâm
 
 \- 2 c.a.s Huile de sésame
-
-
 
 ## La préparation de la salade Thaïlandaise :
 
