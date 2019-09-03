@@ -30,13 +30,4 @@ Recette pour 4 personnes :
 3. **Les crevettes :** Dans un Wok _(une sauteuse)_, faites chauffer l'huile d’arachide et faites frire les crevettes à feu vif ! _N'oubliez pas de retourner les crevettes des deux côtés._
 4. **Les légumes : **Ajoutez les légumes à vos crevettes en les remuants afin de garder leur croquant. Laisser cuire 2 à 3 minutes.
 5. **L’assaisonnement **: Ajoutez l’ail et votre assaisonnement. Et remuez 1 min supplémentaire sur feu vif.
-
-
-
-
-
-Le vin blanc s’impose comme une évidence. Préférez un vin sec ni trop gras, ni trop massif, assez léger pour ne pas heurter le plat.
-
-
-
-Si vous mangez très épicé, partez sur un vin plus aromatique, riche.
+6. **La dégustation :** Parez au décollage des papilles ? Alors servez les ramens chaudes. _Si vous recevez, proposez un vin blanc de préférence sec :)_
