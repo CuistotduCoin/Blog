@@ -25,7 +25,7 @@ Recette pour 4 personnes :
 ## Recette Ramen aux Crevettes
 
 1. **Les légumes : **Nettoyez les légumes. Puis à l'aide d'un économe, émincez les légumes en fines tranches. Avec un couteau, découpez en filaments les lamelles précédemment obtenues.
-2. **L'ail :** Épluchez et hachez la petite gousse d’ail. test
+2. **L'ail :** Épluchez et hachez la petite gousse d’ail.
 3. **Les crevettes :** Dans un Wok _(une sauteuse)_, faites chauffer l'huile d’arachide et faites frire les crevettes à feu vif ! _N'oubliez pas de retourner les crevettes des deux côtés.
    _
 4. **Les légumes :** Ajoutez les légumes à vos crevettes en les remuants afin de garder leur croquant. Laisser cuire 2 à 3 minutes.
