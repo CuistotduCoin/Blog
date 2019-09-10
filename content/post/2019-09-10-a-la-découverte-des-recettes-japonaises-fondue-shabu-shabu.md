@@ -23,7 +23,7 @@ date: '2019-09-10T10:59:42+02:00'
 * 500 g de nouilles soba
 * De la coriandre ciselé
 
-_**Pour le bouillon**_
+_**Pour le bouillon **(A préparer la veille)_
 
 * 3,5l d’eau
 * 2 morceaux d’algue kombu séchée*
@@ -44,17 +44,17 @@ _\* : vous retrouverez ces ingrédients dans des épiceries japonaises_
 
 ## Recette Fondue Japonaise
 
-_**Préparer la sauce ponzu**_ _(24h à l'avance)_
+_**La sauce ponzu**_ _(24h à l'avance)_
 
-Dans un saladier, mettez les champignons et les algues, versez le soja dessus, puis mettez le saladier au frigo durant toute la nuit. Rajouter le reste des ingrédients le lendemain. Cette sauce ponzu peut se conserver environ 1 semaine au réfrigérateur.
+Dans un saladier, mettez les champignons et les algues, versez le soja dessus, puis mettez le saladier au frigo durant toute la nuit. Rajoutez le reste des ingrédients le lendemain.
 
+_**Le bouillon dashi**_ _(24h à l'avance)_
 
+Dans une casserole, disposez les algues et les champignons et versez l’eau. Laissez infuser toute une nuit. Le lendemain, portez à frémissement, laissez tiédir puis filtrez.
 
-Préparer le bouillon dashi : dans une casserole, disposez le kombu, le shiitaké, Versez l’eau. Laissez infuser toute une nuit. Le lendemain, portez à frémissement, laissez tiédir puis filtrez.
+_**La garniture**_ 
 
-
-
-Préparer la garniture : coupez les poireaux en tronçons et les carottes en lamelles puis faites-les précuire 5 minutes à la vapeur. Retirer le pied des champignons et coupez-les en 2. Emincez les magrets. Coupez le chou chinois. Disposez la garniture sur des plats de service.
+coupez les poireaux en tronçons et les carottes en lamelles puis faites-les précuire 5 minutes à la vapeur. Retirer le pied des champignons et coupez-les en 2. Emincez les magrets. Coupez le chou chinois. Disposez la garniture sur des plats de service.
 
 
 
