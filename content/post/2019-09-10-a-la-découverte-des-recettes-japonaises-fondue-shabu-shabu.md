@@ -23,7 +23,7 @@ date: '2019-09-10T10:59:42+02:00'
 * 500 g de nouilles soba
 * De la coriandre ciselé
 
-_**Pour le bouillon **(A préparer la veille)_
+_**Pour le bouillon** (A préparer la veille)_
 
 * 3,5l d’eau
 * 2 morceaux d’algue kombu séchée*
@@ -38,7 +38,7 @@ _**Pour 25cl de sauce ponzu**_ _(A préparer la veille)_
 * 16 cl de jus de citron jaune et de clémentine
 * 10 cl de mirin _(alcool de riz sucré)*_
 
-_\* : vous retrouverez ces ingrédients dans des épiceries japonaises_
+_* : vous retrouverez ces ingrédients dans des épiceries japonaises_
 
 
 
