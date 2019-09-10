@@ -4,6 +4,7 @@ description: >-
   Ce mois-ci, on vous prend l’avion direction l’Asie et plus spécifiquement le
   Japon !! Avec sa culture atypique et ses recettes savoureuses, le Japon
   fascine :) Alors prêt pour un voyage des papilles ?!
+image: /images/img_3458.jpg
 categories:
   - Recettes
 date: '2019-09-10T10:59:42+02:00'
