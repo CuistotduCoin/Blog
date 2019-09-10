@@ -54,7 +54,7 @@ Dans une casserole, disposez les algues et les champignons et versez l’eau. La
 
 _**La garniture**_ 
 
-coupez les poireaux en tronçons et les carottes en lamelles puis faites-les précuire 5 minutes à la vapeur. Retirer le pied des champignons et coupez-les en 2. Emincez les magrets. Coupez le chou chinois. Disposez la garniture sur des plats de service.
+Coupez les poireaux en tronçons et les carottes en lamelles puis faites-les précuire 5 minutes à la vapeur. Retirez le pied des champignons et coupez-les en 2. Émincez les magrets. Coupez le chou chinois. Disposez la garniture sur des plats de service.
 
 
 
