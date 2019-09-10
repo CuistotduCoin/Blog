@@ -56,10 +56,10 @@ _**La garniture**_
 
 Coupez les poireaux en tronçons et les carottes en lamelles puis faites-les précuire 5 minutes à la vapeur. Retirez le pied des champignons et coupez-les en 2. Émincez les magrets. Coupez le chou chinois. Disposez la garniture sur des plats de service.
 
+_**Les soba**_
 
+Faites cuire les nouilles dans un grand volume d’eau pendant environ 5 minutes. Égouttez et rincez.
 
-Préparer les soba : cuire les nouilles soba dans un grand volume d’eau pendant environ 5 minutes (ou selon les indications du paquet). Egouttez, rincez.
+_**La dégustation**_
 
-
-
-Déguster : portez à ébullition le bouillon sur un réchaud sur la table. Cuire la garniture et le canard au fur et à mesure dans le bouillon. Tremper dans la sauce et déguster avec un peu de coriandre. Accompagner de soba qu’on réchauffera dans le bouillon.
+Faites porter à ébullition le bouillon sur un réchaud au centre de votre table. Puis faites cuire la garniture et le canard au fur et à mesure dans le bouillon. Tremper dans la sauce votre canard. Pour les nouilles, il vous suffit de la réchauffer dans le bouillon.
