@@ -46,7 +46,7 @@ _\* : vous retrouverez ces ingrédients dans des épiceries japonaises_
 
 _**Préparer la sauce ponzu**_ _(24h à l'avance)_
 
-Dans un bol, mettez les champignons et les algues puis versez le soja et mettre au frigo pendant toute une nuit. Rajouter le reste des ingrédients le lendemain. Cette sauce ponzu peut se conserver environ 1 semaine au réfrigérateur.
+Dans un saladier, mettez les champignons et les algues, versez le soja dessus, puis mettez le saladier au frigo durant toute la nuit. Rajouter le reste des ingrédients le lendemain. Cette sauce ponzu peut se conserver environ 1 semaine au réfrigérateur.
 
 
 
