@@ -24,4 +24,10 @@ date: '2019-09-17T14:32:02+02:00'
 * 4 oignons nouveaux
 * Shimichi togarashi
 
-## Recette Soupe de Nouilles Udon
+## Recette Soupe de Nouilles Udon 
+
+1. Lavez les poireaux et coupez-les en très fines rondelles. Hachez très finement les oignons. Coupez le porc en fines lanières.
+2. Faites cuire les nouilles 5 minutes dans une grande casserole. Égouttez et couvrir pour tenir au chaud.
+3. Mélangez l'eau et le dashi dans une grande casserole et portez à ébullition. Ajoutez les poireaux, réduire le feu et laissez frémir 5 minutes. Ajoutez le porc, la sauce de soja, le mirin, les oignons. Laissez frémir 2 minutes, jusqu'à ce que le porc soit cuit.
+4. Répartissez les nouilles dans les bols et arrosez de la soupe. Garnissez d'oignons et parsemez de shimichi togarashi.
+5. C'est prêt !! Bonne dégustation :)
