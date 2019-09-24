@@ -17,12 +17,10 @@ date: '2019-09-24T12:08:57+02:00'
 * 3 c.à.c d'eau chaude
 * 250ml de lait froid ou 300ml de lait chaud
 
-
-
 ## Recette Matcha Latte
 
-1. Mettez la poudre de thé vert matcha et le sucre dans une tasse (ou dans un mug).
-2. Ajoutez l'eau chaude et mélangez à la cuillère ou au fouet jusqu'à ce que vous obteniez une pâte vert foncé onctueuse. Cette étape permet d'éviter les grumeaux.
-3. Faites chauffer le lait à la casserole puis versez-le dans la tasse jusqu'à ce qu'elle soit presque pleine. Utilisez du lait froid pour un latte glacé.
-4. Utilisez un fouet pour mélanger la pâte avec le lait jusqu'à ce que le liquide soit onctueux et vert clair.
-5. Si vous le souhaitez, parsemez une pincée de poudre de thé vert matcha sur le dessus pour décorer. Vous pouvez aussi ajouter des glaçons pour un latte glacé extra frais.
+1. Mettez la poudre de thé vert matcha et le sucre dans une tasse.
+2. Ajoutez l'eau chaude et mélangez au fouet _(en bambou si vous avez)_ jusqu'à ce que vous obteniez une pâte vert foncé onctueuse.
+3. **Pour un latte chaud :** Faites chauffer le lait dans une casserole puis versez-le dans la préparation. **Pour un latte glacé :** Utilisez le lait froid.
+4. Utilisez votre fouet pour mélanger la pâte avec le lait jusqu'à ce que le liquide soit onctueux et vert clair.
+5. Pour la décoration :  une pincée de poudre de thé vert matcha sur le dessus de la tasse. **Et pour le latte glacé :** Ajouter des glaçons pour un latte glacé très frais.
