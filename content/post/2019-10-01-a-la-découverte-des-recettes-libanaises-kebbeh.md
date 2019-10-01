@@ -18,9 +18,7 @@ date: '2019-10-01T12:02:08+02:00'
 * 1/2 c.a.c de quatre-épices
 * Sel et poivre
 
-
-
-Recette Kebbeh
+## Recette Kebbeh
 
 1. Dans un grand saladier, recouvrez le boulgour d'eau et laissez tremper 2h.
 2. Dans un mixeur, mettez 1 oignon épluché, 200g de viande, le quatre-épices, du sel et du poivre. Mixez jusqu'à obtenir une pâte homogène.
