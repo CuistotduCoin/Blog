@@ -19,7 +19,7 @@ date: '2019-10-08T10:52:08+02:00'
 * Huile d'olive
 * Sel et poivre
 
-Recette du Daoud Basha
+## Recette du Daoud Basha
 
 1. Dans une poêle, faites griller à sec les pignons de pin.
 2. Mettez la viande hachée dans un saladier. Parsemez-la de cannelle, de sel et de poivre. Malaxer l'ensemble avec les mains, jusqu'à obtention d'un ensemble homogène.
