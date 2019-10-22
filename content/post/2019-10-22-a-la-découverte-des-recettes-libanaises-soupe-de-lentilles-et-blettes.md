@@ -3,6 +3,7 @@ title: 'A la Découverte des Recettes Libanaises : Soupe de lentilles et blettes
 description: >-
   Ce mois-ci, on vous prend l’avion direction le Moyen-Orient et plus
   spécifiquement le Liban !! Alors prêt pour un voyage des papilles ?!
+image: /images/soupe-libanaise.jpg
 categories:
   - Recettes
 date: '2019-10-22T11:43:42+02:00'
