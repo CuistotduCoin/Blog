@@ -7,7 +7,7 @@ categories:
   - Recettes
 date: '2019-10-29T12:03:48+01:00'
 ---
-## Ingrédients de la limonade 
+## Ingrédients de la limonade
 
 **Pour 1 Litre :**
 
@@ -17,20 +17,10 @@ date: '2019-10-29T12:03:48+01:00'
 * 1 cuillère à soupe d'eau de fleur d'oranger
 * 100g de sucre
 
-
-
 ## Préparation de la limonade
 
-Commencez par lavez soigneusement les citrons, pressez-les et réalisez des zestes avec la peau.
-
-
-
-Allez Go, on verse le jus de citron, les zestes le sucre dans une belle bouteille (on en vend plein chez Zôdio, allez voir les filles du secteur recevoir !).
-
-
-
-C'est parti pour 24h de frigo (donc on anticipe, pour que toute la préparation soit au Top) !!
-
-
-
-Le lendemain, on passe cette préparation au chinois (afin d'enlever les zestes), on rajoute l'eau gazeuse, l'eau de fleur d'oranger, on mélange le tout dans la jolie bouteille Zôdio et ça retourne direct au frigo !!
+1. Lavez soigneusement les citrons, pressez-les et réalisez des zestes avec la peau.
+2. Versez le jus de citron, les zestes, le sucre dans une bouteille.
+3. Placez la bouteille pendant 24h au frigo.
+4. Le lendemain, passez la préparation au chinois puis ajoutez l'eau gazeuse, l'eau de fleur d'oranger.
+5. Mélangez le tout et voilà c'est prêt :)
