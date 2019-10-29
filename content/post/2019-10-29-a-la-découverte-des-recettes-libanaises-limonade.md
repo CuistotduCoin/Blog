@@ -3,6 +3,7 @@ title: 'A la Découverte des Recettes Libanaises : Limonade'
 description: >-
   Ce mois-ci, on vous prend l’avion direction le Moyen-Orient et plus
   spécifiquement le Liban !! Alors prêt pour un voyage des papilles ?!
+image: /images/limonade-libanaise.jpg
 categories:
   - Recettes
 date: '2019-10-29T12:03:48+01:00'
