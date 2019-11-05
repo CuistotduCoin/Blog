@@ -10,9 +10,13 @@ date: '2019-11-05T15:47:31+01:00'
 ---
 ## Ingrédients des Briouates au Poulet
 
-Pour 4 personnes :
+**Pour 4 personnes :**
 
 * 250g de blanc poulet
 * 2 oignons
 * Quelques pistils de safran
 * 1 paquet de feuilles de brick
+
+
+
+## Préparation des Briouates au Poulet
