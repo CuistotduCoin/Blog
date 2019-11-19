@@ -10,13 +10,9 @@ date: '2019-11-19T11:32:45+01:00'
 ---
 ## Ingrédients du Tajine de Boulettes de Sardine
 
-**Pour 4 personnes :
-**
+**Pour 4 personnes :**
 
-* 
-
-600g de sardines
-
+* 600g de sardines
 * 1 càc de ras-el-hamout (mélange d'épices)
 * 3 càs de corriandre hachée
 * 200g de sauce tomate à l'ail
