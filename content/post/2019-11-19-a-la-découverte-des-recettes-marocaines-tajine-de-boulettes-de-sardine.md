@@ -3,15 +3,20 @@ title: 'A la Découverte des Recettes Marocaines : Tajine de boulettes de sardin
 description: >-
   Ce mois-ci, on vous prend l’avion direction le Maghreb et plus spécifiquement
   le Maroc !! Alors prêt pour un voyage des papilles ?!
+image: /images/tajine-sardine.jpg
 categories:
   - Recettes
 date: '2019-11-19T11:32:45+01:00'
 ---
 ## Ingrédients du Tajine de Boulettes de Sardine
 
-**Pour 4 personnes :**
+**Pour 4 personnes :
+**
 
-* 600g de sardines
+* 
+
+600g de sardines
+
 * 1 càc de ras-el-hamout (mélange d'épices)
 * 3 càs de corriandre hachée
 * 200g de sauce tomate à l'ail
@@ -20,7 +25,7 @@ date: '2019-11-19T11:32:45+01:00'
 
 ## Préparation du Tajine de Boulettes de Sardine
 
-1. Écaillez les sardines. Demandez à votre poissonnier de vous préparer les sardines ou alors, videz-les en retirant la tête, puis ouvrez-les et ôtez l'arête centrale. 
+1. Écaillez les sardines. Demandez à votre poissonnier de vous préparer les sardines ou alors, videz-les en retirant la tête, puis ouvrez-les et ôtez l'arête centrale. 
 2. Rincez les sardines soigneusement  à l'eau courante. Hachez-les tout doucement au blender.
 3. Dans un saladier, mettez la chair des sardines, 1 càs d'huile d'olive, le mélange d'épice et la coriandre. Salez et poivrez légèrement, malaxez à la spatule pour obtenir un mélange homogène.
 4. Humidifiez vos mains et formez des boulettes.
