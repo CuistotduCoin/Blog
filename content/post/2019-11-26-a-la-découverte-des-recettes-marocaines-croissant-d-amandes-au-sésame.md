@@ -3,6 +3,7 @@ title: 'A la Découverte des Recettes Marocaines : Croissant d''amandes au sésa
 description: >-
   Ce mois-ci, on vous prend l’avion direction le Maghreb et plus spécifiquement
   le Maroc !! Alors prêt pour un voyage des papilles ?!
+image: /images/croissant-amande.jpg
 categories:
   - Recettes
 date: '2019-11-26T11:05:48+01:00'
