@@ -16,6 +16,6 @@ date: '2019-11-26T11:05:48+01:00'
 * 2 blancs d’œufs
 * 300g de graines de sésame grillées
 
-Préparation des Croissants d'Amandes
+## Préparation des Croissants d'Amandes
 
-1.
+1. Mixez les amandes et le sucre jusqu'à l'obtention d'une pâte lisse. Ajoutez 1 blanc d’œuf et mélangez.
