@@ -11,4 +11,11 @@ date: '2019-11-26T11:05:48+01:00'
 
 **Pour 5 personnes**:
 
-* 250g
+* 250g d'amandes émondées
+* 125g de sucre en poudre
+* 2 blancs d’œufs
+* 300g de graines de sésame grillées
+
+Préparation des Croissants d'Amandes
+
+1.
