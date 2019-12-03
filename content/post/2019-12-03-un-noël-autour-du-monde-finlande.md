@@ -1,6 +1,7 @@
 ---
 title: Un Noël autour du monde - Finlande
 description: 'Ce mois-ci on met à l''honneur des plats de Noël du monde entier :)'
+image: /images/saumongravlax_1200800.jpg
 categories:
   - Recettes
 date: '2019-12-03T11:40:19+01:00'
