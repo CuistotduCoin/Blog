@@ -4,7 +4,7 @@ description: 'Ce mois-ci on met à l’honneur des plats de Noël du monde entie
 image: /images/tourtière.jpg
 categories:
   - Recettes
-date: Invalid date
+date: '2019-12-10T11:40:19+01:00'
 ---
 ## Ingrédients de la Tourtière
 
