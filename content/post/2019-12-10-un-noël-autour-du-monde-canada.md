@@ -1,6 +1,7 @@
 ---
 title: Un Noël autour du monde - Canada
 description: 'Ce mois-ci on met à l’honneur des plats de Noël du monde entier :)'
+image: /images/tourtière.jpg
 categories:
   - Recettes
 date: Invalid date
