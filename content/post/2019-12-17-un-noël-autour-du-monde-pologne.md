@@ -1,6 +1,7 @@
 ---
 title: Un Noël autour du monde - Pologne
 description: 'Ce mois-ci on met à l’honneur des plats de Noël du monde entier :)'
+image: /images/piernik_najlepszy_01.jpg
 categories:
   - Recettes
 date: '2019-12-17T11:30:59+01:00'
